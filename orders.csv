@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,Region,State,City,PaymentMode,TotalAmount,TotalQuantity
+ORD0001,2023-01-01,CUST103,North,Karnataka,Pune,UPI,4986.48,2
+ORD0002,2023-01-02,CUST271,North,Gujarat,Ahmedabad,Credit Card,2883.48,1
+ORD0003,2023-01-03,CUST107,North,Karnataka,Bangalore,Debit Card,1741.58,4
+ORD0004,2023-01-04,CUST072,South,Delhi,Delhi,Credit Card,1256.53,3
+ORD0005,2023-01-05,CUST189,West,Delhi,Delhi,UPI,1882.5,2
+ORD0006,2023-01-06,CUST021,West,Karnataka,Ahmedabad,UPI,1988.16,4
+ORD0007,2023-01-07,CUST103,East,Tamil Nadu,Pune,Credit Card,529.83,4
+ORD0008,2023-01-08,CUST122,South,Gujarat,Chennai,Net Banking,1973.96,4
+ORD0009,2023-01-09,CUST215,North,Delhi,Delhi,Debit Card,2428.34,2
+ORD0010,2023-01-10,CUST088,South,Tamil Nadu,Pune,Debit Card,3669.14,2
+ORD0011,2023-01-11,CUST100,East,Karnataka,Ahmedabad,UPI,3352.3,5
+ORD0012,2023-01-12,CUST152,East,Tamil Nadu,Mumbai,Net Banking,3602.08,5
+ORD0013,2023-01-13,CUST131,South,Maharashtra,Chennai,Credit Card,240.15,1
+ORD0014,2023-01-14,CUST150,South,Delhi,Bangalore,Debit Card,1244.8,2
+ORD0015,2023-01-15,CUST258,South,Karnataka,Delhi,Net Banking,3376.08,2
+ORD0016,2023-01-16,CUST294,West,Gujarat,Pune,Debit Card,2523.15,2
+ORD0017,2023-01-17,CUST192,North,Karnataka,Mumbai,Net Banking,225.5,5
+ORD0018,2023-01-18,CUST277,South,Gujarat,Bangalore,Net Banking,4061.57,4
+ORD0019,2023-01-19,CUST161,South,Karnataka,Pune,UPI,3909.49,3
+ORD0020,2023-01-20,CUST022,South,Tamil Nadu,Pune,Debit Card,2832.41,5
+ORD0021,2023-01-21,CUST253,East,Tamil Nadu,Bangalore,Credit Card,519.02,2
+ORD0022,2023-01-22,CUST236,East,Tamil Nadu,Mumbai,UPI,3879.27,5
+ORD0023,2023-01-23,CUST049,West,Maharashtra,Ahmedabad,UPI,3001.83,1
+ORD0024,2023-01-24,CUST059,North,Gujarat,Mumbai,Credit Card,3953.41,2
+ORD0025,2023-01-25,CUST170,West,Tamil Nadu,Chennai,UPI,3808.39,1
+ORD0026,2023-01-26,CUST188,North,Maharashtra,Delhi,Net Banking,4054.41,2
+ORD0027,2023-01-27,CUST271,East,Gujarat,Bangalore,Net Banking,2686.44,5
+ORD0028,2023-01-28,CUST190,East,Karnataka,Ahmedabad,Debit Card,873.56,4
+ORD0029,2023-01-29,CUST175,East,Maharashtra,Bangalore,Debit Card,3421.56,3
+ORD0030,2023-01-30,CUST051,West,Delhi,Bangalore,Credit Card,3178.27,1
+ORD0031,2023-01-31,CUST055,South,Maharashtra,Mumbai,Debit Card,3762.82,5
+ORD0032,2023-02-01,CUST244,South,Maharashtra,Delhi,Net Banking,1015.43,4
+ORD0033,2023-02-02,CUST131,East,Gujarat,Chennai,Credit Card,1135.88,5
+ORD0034,2023-02-03,CUST135,South,Karnataka,Pune,Credit Card,4473.97,1
+ORD0035,2023-02-04,CUST021,South,Delhi,Pune,Debit Card,3799.89,3
+ORD0036,2023-02-05,CUST167,West,Tamil Nadu,Bangalore,Net Banking,4559.5,5
+ORD0037,2023-02-06,CUST274,North,Tamil Nadu,Delhi,Credit Card,3841.83,2
+ORD0038,2023-02-07,CUST089,East,Maharashtra,Ahmedabad,Net Banking,3066.35,4
+ORD0039,2023-02-08,CUST014,East,Gujarat,Mumbai,Net Banking,3339.84,5
+ORD0040,2023-02-09,CUST242,West,Gujarat,Delhi,Net Banking,4467.81,4
+ORD0041,2023-02-10,CUST265,West,Tamil Nadu,Delhi,Debit Card,2978.27,2
+ORD0042,2023-02-11,CUST053,South,Delhi,Mumbai,UPI,3235.48,3
+ORD0043,2023-02-12,CUST092,East,Karnataka,Bangalore,UPI,951.09,3
+ORD0044,2023-02-13,CUST264,North,Delhi,Delhi,Credit Card,2474.82,2
+ORD0045,2023-02-14,CUST035,West,Karnataka,Pune,Net Banking,3638.71,4
+ORD0046,2023-02-15,CUST206,North,Tamil Nadu,Mumbai,Debit Card,1500.52,5
+ORD0047,2023-02-16,CUST081,North,Karnataka,Ahmedabad,Net Banking,1170.82,2
+ORD0048,2023-02-17,CUST050,East,Gujarat,Chennai,Net Banking,1706.37,1
+ORD0049,2023-02-18,CUST002,East,Maharashtra,Bangalore,Debit Card,1359.2,4
+ORD0050,2023-02-19,CUST054,West,Maharashtra,Mumbai,UPI,1231.58,3
+ORD0051,2023-02-20,CUST106,East,Tamil Nadu,Chennai,Net Banking,2239.28,2
+ORD0052,2023-02-21,CUST260,East,Gujarat,Chennai,Net Banking,4557.62,3
+ORD0053,2023-02-22,CUST191,East,Delhi,Ahmedabad,UPI,2633.89,4
+ORD0054,2023-02-23,CUST218,North,Gujarat,Delhi,Debit Card,1102.02,3
+ORD0055,2023-02-24,CUST044,West,Maharashtra,Ahmedabad,Credit Card,569.46,2
+ORD0056,2023-02-25,CUST162,South,Maharashtra,Delhi,UPI,3541.55,4
+ORD0057,2023-02-26,CUST202,North,Gujarat,Delhi,Credit Card,2037.43,1
+ORD0058,2023-02-27,CUST270,East,Gujarat,Mumbai,Credit Card,4144.79,2
+ORD0059,2023-02-28,CUST271,North,Maharashtra,Mumbai,UPI,3365.65,5
+ORD0060,2023-03-01,CUST215,East,Delhi,Bangalore,Net Banking,4021.96,2
+ORD0061,2023-03-02,CUST252,East,Tamil Nadu,Delhi,Credit Card,1505.34,4
+ORD0062,2023-03-03,CUST190,North,Tamil Nadu,Chennai,Credit Card,3523.32,2
+ORD0063,2023-03-04,CUST296,West,Gujarat,Pune,Debit Card,1467.5,1
+ORD0064,2023-03-05,CUST213,East,Tamil Nadu,Bangalore,Net Banking,4707.53,1
+ORD0065,2023-03-06,CUST208,West,Maharashtra,Mumbai,Credit Card,3254.6,5
+ORD0066,2023-03-07,CUST237,South,Maharashtra,Ahmedabad,Debit Card,1757.66,3
+ORD0067,2023-03-08,CUST053,East,Gujarat,Bangalore,Net Banking,1493.66,4
+ORD0068,2023-03-09,CUST280,West,Gujarat,Bangalore,UPI,1116.45,4
+ORD0069,2023-03-10,CUST217,West,Gujarat,Bangalore,UPI,3534.28,3
+ORD0070,2023-03-11,CUST252,South,Delhi,Bangalore,Debit Card,1249.83,1
+ORD0071,2023-03-12,CUST188,West,Tamil Nadu,Pune,UPI,3057.46,1
+ORD0072,2023-03-13,CUST041,West,Gujarat,Ahmedabad,Credit Card,1470.25,2
+ORD0073,2023-03-14,CUST157,South,Karnataka,Ahmedabad,Net Banking,3377.45,5
+ORD0074,2023-03-15,CUST015,East,Karnataka,Ahmedabad,Credit Card,4111.71,5
+ORD0075,2023-03-16,CUST065,West,Maharashtra,Delhi,Credit Card,3934.52,5
+ORD0076,2023-03-17,CUST009,West,Tamil Nadu,Chennai,UPI,3852.09,2
+ORD0077,2023-03-18,CUST129,West,Gujarat,Ahmedabad,Credit Card,1101.07,5
+ORD0078,2023-03-19,CUST136,North,Karnataka,Bangalore,UPI,624.25,3
+ORD0079,2023-03-20,CUST063,South,Tamil Nadu,Bangalore,Net Banking,3554.95,2
+ORD0080,2023-03-21,CUST139,North,Maharashtra,Ahmedabad,Net Banking,1968.07,3
+ORD0081,2023-03-22,CUST081,South,Delhi,Ahmedabad,Credit Card,2275.26,2
+ORD0082,2023-03-23,CUST163,East,Tamil Nadu,Bangalore,Debit Card,349.52,5
+ORD0083,2023-03-24,CUST289,East,Tamil Nadu,Delhi,UPI,1445.97,3
+ORD0084,2023-03-25,CUST261,West,Delhi,Mumbai,UPI,361.65,3
+ORD0085,2023-03-26,CUST231,South,Tamil Nadu,Mumbai,Credit Card,4420.09,3
+ORD0086,2023-03-27,CUST041,East,Maharashtra,Ahmedabad,UPI,1368.3,2
+ORD0087,2023-03-28,CUST028,South,Maharashtra,Pune,UPI,2875.22,4
+ORD0088,2023-03-29,CUST135,East,Delhi,Ahmedabad,Debit Card,387.1,5
+ORD0089,2023-03-30,CUST201,North,Gujarat,Ahmedabad,Debit Card,3400.87,3
+ORD0090,2023-03-31,CUST268,East,Karnataka,Mumbai,Credit Card,1750.53,4
+ORD0091,2023-04-01,CUST033,North,Gujarat,Bangalore,Debit Card,4510.01,5
+ORD0092,2023-04-02,CUST048,East,Tamil Nadu,Ahmedabad,Credit Card,4462.97,5
+ORD0093,2023-04-03,CUST062,West,Karnataka,Bangalore,Net Banking,1761.39,3
+ORD0094,2023-04-04,CUST216,North,Delhi,Bangalore,Credit Card,4524.61,3
+ORD0095,2023-04-05,CUST293,East,Delhi,Pune,Net Banking,4981.56,2
+ORD0096,2023-04-06,CUST099,West,Karnataka,Bangalore,Credit Card,4162.0,4
+ORD0097,2023-04-07,CUST172,North,Maharashtra,Mumbai,UPI,4255.38,4
+ORD0098,2023-04-08,CUST214,West,Karnataka,Delhi,Debit Card,1395.24,3
+ORD0099,2023-04-09,CUST035,South,Tamil Nadu,Delhi,Net Banking,2968.17,5
+ORD0100,2023-04-10,CUST227,South,Maharashtra,Chennai,Credit Card,522.83,3
+ORD0101,2023-04-11,CUST101,North,Delhi,Ahmedabad,Debit Card,655.61,5
+ORD0102,2023-04-12,CUST131,East,Karnataka,Mumbai,Credit Card,4994.68,5
+ORD0103,2023-04-13,CUST257,North,Gujarat,Bangalore,Debit Card,1767.87,3
+ORD0104,2023-04-14,CUST005,West,Gujarat,Delhi,Debit Card,3791.28,1
+ORD0105,2023-04-15,CUST218,East,Tamil Nadu,Mumbai,Credit Card,4071.99,4
+ORD0106,2023-04-16,CUST255,South,Gujarat,Delhi,Net Banking,4318.51,5
+ORD0107,2023-04-17,CUST283,East,Karnataka,Bangalore,Net Banking,4988.62,5
+ORD0108,2023-04-18,CUST207,South,Karnataka,Delhi,UPI,1359.18,1
+ORD0109,2023-04-19,CUST015,East,Gujarat,Ahmedabad,Debit Card,393.68,2
+ORD0110,2023-04-20,CUST042,East,Karnataka,Ahmedabad,UPI,2173.72,1
+ORD0111,2023-04-21,CUST179,East,Tamil Nadu,Chennai,UPI,824.39,1
+ORD0112,2023-04-22,CUST063,West,Maharashtra,Chennai,Credit Card,307.64,5
+ORD0113,2023-04-23,CUST231,West,Tamil Nadu,Delhi,Credit Card,1930.05,4
+ORD0114,2023-04-24,CUST241,North,Tamil Nadu,Mumbai,Credit Card,3961.94,1
+ORD0115,2023-04-25,CUST052,North,Karnataka,Ahmedabad,Debit Card,2917.67,2
+ORD0116,2023-04-26,CUST096,South,Maharashtra,Mumbai,Credit Card,1701.33,3
+ORD0117,2023-04-27,CUST222,West,Karnataka,Mumbai,Credit Card,3340.84,1
+ORD0118,2023-04-28,CUST231,South,Delhi,Delhi,Debit Card,1313.69,1
+ORD0119,2023-04-29,CUST237,North,Karnataka,Mumbai,Debit Card,269.03,2
+ORD0120,2023-04-30,CUST143,South,Karnataka,Ahmedabad,Net Banking,3868.9,4
+ORD0121,2023-05-01,CUST171,North,Karnataka,Bangalore,Credit Card,3193.97,1
+ORD0122,2023-05-02,CUST029,West,Maharashtra,Chennai,Credit Card,3859.05,1
+ORD0123,2023-05-03,CUST036,East,Karnataka,Bangalore,Credit Card,386.9,4
+ORD0124,2023-05-04,CUST013,West,Maharashtra,Mumbai,Net Banking,4218.17,2
+ORD0125,2023-05-05,CUST160,South,Gujarat,Bangalore,Credit Card,3173.73,1
+ORD0126,2023-05-06,CUST187,South,Delhi,Ahmedabad,Net Banking,2904.3,4
+ORD0127,2023-05-07,CUST243,West,Maharashtra,Ahmedabad,UPI,3198.15,1
+ORD0128,2023-05-08,CUST086,West,Gujarat,Mumbai,Net Banking,4349.28,3
+ORD0129,2023-05-09,CUST284,North,Maharashtra,Delhi,UPI,3017.3,5
+ORD0130,2023-05-10,CUST066,South,Maharashtra,Bangalore,Credit Card,2988.56,3
+ORD0131,2023-05-11,CUST170,South,Delhi,Delhi,UPI,4955.26,1
+ORD0132,2023-05-12,CUST045,West,Tamil Nadu,Delhi,Net Banking,3832.3,2
+ORD0133,2023-05-13,CUST062,East,Tamil Nadu,Pune,Debit Card,2323.01,5
+ORD0134,2023-05-14,CUST134,South,Maharashtra,Mumbai,UPI,3595.51,3
+ORD0135,2023-05-15,CUST284,East,Karnataka,Chennai,UPI,2068.31,4
+ORD0136,2023-05-16,CUST028,West,Gujarat,Ahmedabad,Credit Card,1298.6,2
+ORD0137,2023-05-17,CUST108,West,Karnataka,Ahmedabad,Net Banking,3064.89,3
+ORD0138,2023-05-18,CUST044,North,Karnataka,Mumbai,UPI,4655.27,4
+ORD0139,2023-05-19,CUST286,South,Maharashtra,Chennai,UPI,4659.87,1
+ORD0140,2023-05-20,CUST128,East,Maharashtra,Ahmedabad,UPI,1841.15,4
+ORD0141,2023-05-21,CUST231,North,Maharashtra,Mumbai,UPI,2732.85,3
+ORD0142,2023-05-22,CUST190,South,Maharashtra,Ahmedabad,Debit Card,1215.85,3
+ORD0143,2023-05-23,CUST225,North,Tamil Nadu,Delhi,Net Banking,4979.03,1
+ORD0144,2023-05-24,CUST283,West,Maharashtra,Bangalore,Credit Card,4909.37,4
+ORD0145,2023-05-25,CUST121,South,Tamil Nadu,Bangalore,Credit Card,3317.64,4
+ORD0146,2023-05-26,CUST116,North,Tamil Nadu,Ahmedabad,Debit Card,4061.19,1
+ORD0147,2023-05-27,CUST233,North,Maharashtra,Pune,Net Banking,3632.48,4
+ORD0148,2023-05-28,CUST259,East,Delhi,Chennai,UPI,3047.16,1
+ORD0149,2023-05-29,CUST198,North,Gujarat,Chennai,Debit Card,456.07,2
+ORD0150,2023-05-30,CUST137,South,Karnataka,Chennai,Net Banking,2382.87,3
+ORD0151,2023-05-31,CUST165,South,Tamil Nadu,Delhi,UPI,3438.97,2
+ORD0152,2023-06-01,CUST225,East,Gujarat,Chennai,Debit Card,3452.15,5
+ORD0153,2023-06-02,CUST234,South,Delhi,Bangalore,Net Banking,1990.99,5
+ORD0154,2023-06-03,CUST172,West,Karnataka,Delhi,Credit Card,4720.12,5
+ORD0155,2023-06-04,CUST152,South,Karnataka,Mumbai,Credit Card,1003.31,1
+ORD0156,2023-06-05,CUST160,South,Tamil Nadu,Chennai,Net Banking,2601.73,4
+ORD0157,2023-06-06,CUST096,North,Maharashtra,Chennai,Credit Card,3516.24,2
+ORD0158,2023-06-07,CUST233,North,Delhi,Mumbai,Net Banking,3546.25,2
+ORD0159,2023-06-08,CUST180,South,Tamil Nadu,Chennai,UPI,3313.47,2
+ORD0160,2023-06-09,CUST113,East,Delhi,Mumbai,Net Banking,1521.38,2
+ORD0161,2023-06-10,CUST052,North,Maharashtra,Delhi,UPI,949.79,5
+ORD0162,2023-06-11,CUST268,East,Maharashtra,Bangalore,Debit Card,3252.51,2
+ORD0163,2023-06-12,CUST295,South,Tamil Nadu,Mumbai,Net Banking,3076.65,4
+ORD0164,2023-06-13,CUST113,South,Maharashtra,Pune,Debit Card,1060.91,5
+ORD0165,2023-06-14,CUST101,West,Gujarat,Mumbai,Credit Card,3584.67,2
+ORD0166,2023-06-15,CUST113,North,Karnataka,Chennai,UPI,2384.83,1
+ORD0167,2023-06-16,CUST081,South,Tamil Nadu,Delhi,Net Banking,3405.25,3
+ORD0168,2023-06-17,CUST187,West,Delhi,Ahmedabad,Debit Card,4219.36,3
+ORD0169,2023-06-18,CUST113,North,Gujarat,Delhi,UPI,1014.7,3
+ORD0170,2023-06-19,CUST002,South,Tamil Nadu,Ahmedabad,UPI,291.9,5
+ORD0171,2023-06-20,CUST130,South,Maharashtra,Mumbai,Credit Card,3939.69,2
+ORD0172,2023-06-21,CUST220,North,Maharashtra,Bangalore,Credit Card,3126.55,5
+ORD0173,2023-06-22,CUST054,North,Maharashtra,Pune,UPI,3558.27,4
+ORD0174,2023-06-23,CUST224,North,Maharashtra,Delhi,UPI,4223.14,1
+ORD0175,2023-06-24,CUST225,South,Delhi,Chennai,Net Banking,4053.49,1
+ORD0176,2023-06-25,CUST126,South,Gujarat,Ahmedabad,UPI,4812.42,3
+ORD0177,2023-06-26,CUST130,West,Karnataka,Chennai,Net Banking,2772.49,3
+ORD0178,2023-06-27,CUST053,East,Delhi,Bangalore,UPI,2544.78,3
+ORD0179,2023-06-28,CUST172,North,Delhi,Ahmedabad,Credit Card,2129.06,2
+ORD0180,2023-06-29,CUST218,South,Karnataka,Delhi,Net Banking,937.72,4
+ORD0181,2023-06-30,CUST160,South,Karnataka,Mumbai,Debit Card,2948.51,4
+ORD0182,2023-07-01,CUST198,North,Maharashtra,Chennai,Credit Card,1529.66,4
+ORD0183,2023-07-02,CUST247,East,Delhi,Bangalore,Net Banking,4622.28,4
+ORD0184,2023-07-03,CUST203,North,Tamil Nadu,Delhi,Net Banking,2999.32,3
+ORD0185,2023-07-04,CUST184,East,Karnataka,Delhi,Debit Card,3045.63,1
+ORD0186,2023-07-05,CUST123,South,Karnataka,Delhi,Net Banking,1903.64,3
+ORD0187,2023-07-06,CUST255,East,Gujarat,Delhi,UPI,449.55,4
+ORD0188,2023-07-07,CUST294,West,Tamil Nadu,Ahmedabad,Debit Card,352.37,3
+ORD0189,2023-07-08,CUST280,South,Tamil Nadu,Delhi,Credit Card,2232.01,4
+ORD0190,2023-07-09,CUST098,West,Karnataka,Chennai,Credit Card,605.91,5
+ORD0191,2023-07-10,CUST198,North,Maharashtra,Bangalore,UPI,3112.87,1
+ORD0192,2023-07-11,CUST240,North,Gujarat,Ahmedabad,Credit Card,4428.67,5
+ORD0193,2023-07-12,CUST144,North,Tamil Nadu,Delhi,Net Banking,4437.99,2
+ORD0194,2023-07-13,CUST097,East,Karnataka,Pune,Net Banking,3363.42,3
+ORD0195,2023-07-14,CUST201,South,Tamil Nadu,Pune,UPI,1213.91,2
+ORD0196,2023-07-15,CUST124,North,Gujarat,Bangalore,Credit Card,4342.38,3
+ORD0197,2023-07-16,CUST187,North,Gujarat,Mumbai,Credit Card,4453.25,5
+ORD0198,2023-07-17,CUST259,South,Delhi,Mumbai,UPI,1143.94,4
+ORD0199,2023-07-18,CUST148,North,Karnataka,Ahmedabad,Debit Card,3739.65,4
+ORD0200,2023-07-19,CUST252,West,Gujarat,Ahmedabad,Credit Card,1575.29,3
+ORD0201,2023-07-20,CUST147,South,Delhi,Ahmedabad,Debit Card,4052.67,4
+ORD0202,2023-07-21,CUST148,South,Delhi,Mumbai,Credit Card,4986.74,5
+ORD0203,2023-07-22,CUST199,South,Tamil Nadu,Pune,Credit Card,344.12,4
+ORD0204,2023-07-23,CUST128,West,Tamil Nadu,Mumbai,Credit Card,4507.36,5
+ORD0205,2023-07-24,CUST039,South,Delhi,Chennai,Credit Card,3188.63,2
+ORD0206,2023-07-25,CUST129,West,Tamil Nadu,Delhi,Net Banking,4872.24,5
+ORD0207,2023-07-26,CUST267,South,Gujarat,Ahmedabad,Debit Card,2432.05,1
+ORD0208,2023-07-27,CUST151,East,Maharashtra,Pune,Debit Card,4267.46,1
+ORD0209,2023-07-28,CUST298,North,Gujarat,Bangalore,Credit Card,499.49,1
+ORD0210,2023-07-29,CUST099,East,Delhi,Bangalore,Credit Card,1809.34,3
+ORD0211,2023-07-30,CUST263,North,Delhi,Delhi,Debit Card,521.68,3
+ORD0212,2023-07-31,CUST252,West,Gujarat,Pune,Net Banking,4881.65,3
+ORD0213,2023-08-01,CUST144,East,Tamil Nadu,Mumbai,UPI,4121.47,5
+ORD0214,2023-08-02,CUST112,South,Tamil Nadu,Mumbai,UPI,4292.23,3
+ORD0215,2023-08-03,CUST060,North,Delhi,Chennai,Debit Card,4702.23,2
+ORD0216,2023-08-04,CUST002,North,Karnataka,Chennai,Credit Card,608.5,1
+ORD0217,2023-08-05,CUST254,East,Tamil Nadu,Mumbai,Credit Card,2050.87,5
+ORD0218,2023-08-06,CUST140,West,Gujarat,Bangalore,Net Banking,540.97,1
+ORD0219,2023-08-07,CUST037,East,Tamil Nadu,Ahmedabad,UPI,1211.81,3
+ORD0220,2023-08-08,CUST160,West,Gujarat,Bangalore,Net Banking,1300.96,5
+ORD0221,2023-08-09,CUST009,West,Delhi,Chennai,UPI,2451.71,4
+ORD0222,2023-08-10,CUST233,North,Tamil Nadu,Delhi,Debit Card,1489.1,2
+ORD0223,2023-08-11,CUST099,East,Gujarat,Mumbai,UPI,684.69,3
+ORD0224,2023-08-12,CUST147,East,Delhi,Chennai,Net Banking,1003.96,3
+ORD0225,2023-08-13,CUST208,West,Karnataka,Chennai,Net Banking,906.92,2
+ORD0226,2023-08-14,CUST131,East,Gujarat,Ahmedabad,Net Banking,4870.77,2
+ORD0227,2023-08-15,CUST152,South,Karnataka,Mumbai,Debit Card,3844.6,4
+ORD0228,2023-08-16,CUST054,South,Karnataka,Ahmedabad,UPI,4845.26,3
+ORD0229,2023-08-17,CUST120,East,Maharashtra,Mumbai,UPI,2310.75,3
+ORD0230,2023-08-18,CUST161,East,Tamil Nadu,Ahmedabad,Net Banking,1536.17,1
+ORD0231,2023-08-19,CUST116,West,Gujarat,Bangalore,UPI,4031.81,5
+ORD0232,2023-08-20,CUST075,South,Karnataka,Delhi,Credit Card,1766.02,5
+ORD0233,2023-08-21,CUST113,South,Maharashtra,Delhi,Credit Card,1637.04,1
+ORD0234,2023-08-22,CUST104,North,Delhi,Mumbai,Credit Card,1316.03,5
+ORD0235,2023-08-23,CUST254,West,Gujarat,Pune,UPI,822.46,2
+ORD0236,2023-08-24,CUST227,North,Karnataka,Chennai,Debit Card,1431.02,5
+ORD0237,2023-08-25,CUST112,South,Tamil Nadu,Chennai,Debit Card,1905.53,5
+ORD0238,2023-08-26,CUST099,West,Maharashtra,Mumbai,Debit Card,3435.17,1
+ORD0239,2023-08-27,CUST153,East,Karnataka,Ahmedabad,Debit Card,500.31,4
+ORD0240,2023-08-28,CUST194,West,Tamil Nadu,Pune,Credit Card,1210.43,5
+ORD0241,2023-08-29,CUST163,East,Karnataka,Bangalore,Credit Card,4083.31,5
+ORD0242,2023-08-30,CUST208,East,Gujarat,Ahmedabad,Net Banking,905.23,4
+ORD0243,2023-08-31,CUST169,West,Gujarat,Ahmedabad,UPI,1844.7,1
+ORD0244,2023-09-01,CUST161,East,Gujarat,Mumbai,UPI,4350.36,4
+ORD0245,2023-09-02,CUST068,North,Maharashtra,Mumbai,Debit Card,943.64,1
+ORD0246,2023-09-03,CUST289,South,Gujarat,Chennai,Credit Card,597.14,2
+ORD0247,2023-09-04,CUST277,East,Tamil Nadu,Mumbai,Debit Card,2525.78,1
+ORD0248,2023-09-05,CUST135,North,Karnataka,Mumbai,Net Banking,1651.61,2
+ORD0249,2023-09-06,CUST195,East,Delhi,Mumbai,UPI,2904.36,2
+ORD0250,2023-09-07,CUST128,South,Tamil Nadu,Chennai,UPI,4058.26,1
+ORD0251,2023-09-08,CUST033,North,Tamil Nadu,Bangalore,Debit Card,858.31,3
+ORD0252,2023-09-09,CUST176,South,Gujarat,Bangalore,Net Banking,2987.36,1
+ORD0253,2023-09-10,CUST022,South,Maharashtra,Mumbai,UPI,2626.44,5
+ORD0254,2023-09-11,CUST238,North,Karnataka,Chennai,Net Banking,891.58,5
+ORD0255,2023-09-12,CUST158,North,Maharashtra,Bangalore,Net Banking,3195.19,3
+ORD0256,2023-09-13,CUST038,North,Karnataka,Ahmedabad,Debit Card,1513.47,2
+ORD0257,2023-09-14,CUST230,West,Karnataka,Bangalore,Credit Card,2541.6,3
+ORD0258,2023-09-15,CUST051,North,Maharashtra,Bangalore,Debit Card,594.91,5
+ORD0259,2023-09-16,CUST264,North,Tamil Nadu,Chennai,Credit Card,2406.0,3
+ORD0260,2023-09-17,CUST283,North,Karnataka,Ahmedabad,Net Banking,1671.02,1
+ORD0261,2023-09-18,CUST027,North,Maharashtra,Chennai,Credit Card,4147.43,3
+ORD0262,2023-09-19,CUST226,East,Karnataka,Mumbai,Net Banking,473.5,2
+ORD0263,2023-09-20,CUST277,West,Delhi,Delhi,UPI,2209.31,1
+ORD0264,2023-09-21,CUST286,South,Tamil Nadu,Bangalore,UPI,2400.47,4
+ORD0265,2023-09-22,CUST097,North,Gujarat,Delhi,UPI,3680.03,5
+ORD0266,2023-09-23,CUST284,East,Karnataka,Chennai,Debit Card,2956.58,5
+ORD0267,2023-09-24,CUST147,East,Delhi,Chennai,Debit Card,3402.62,3
+ORD0268,2023-09-25,CUST004,East,Gujarat,Chennai,Net Banking,3929.84,1
+ORD0269,2023-09-26,CUST035,South,Gujarat,Delhi,UPI,4338.57,4
+ORD0270,2023-09-27,CUST192,North,Karnataka,Chennai,Debit Card,1706.6,1
+ORD0271,2023-09-28,CUST049,West,Maharashtra,Mumbai,UPI,2782.51,5
+ORD0272,2023-09-29,CUST017,West,Karnataka,Chennai,Debit Card,4232.52,1
+ORD0273,2023-09-30,CUST172,East,Delhi,Pune,Credit Card,4949.37,4
+ORD0274,2023-10-01,CUST220,South,Gujarat,Delhi,Credit Card,4469.69,3
+ORD0275,2023-10-02,CUST158,South,Karnataka,Pune,UPI,1983.04,2
+ORD0276,2023-10-03,CUST046,South,Maharashtra,Chennai,Net Banking,1136.8,1
+ORD0277,2023-10-04,CUST006,West,Karnataka,Mumbai,Debit Card,2549.08,2
+ORD0278,2023-10-05,CUST099,East,Tamil Nadu,Bangalore,Debit Card,3759.88,5
+ORD0279,2023-10-06,CUST233,North,Maharashtra,Ahmedabad,Credit Card,2564.33,3
+ORD0280,2023-10-07,CUST037,West,Delhi,Ahmedabad,Credit Card,2519.27,3
+ORD0281,2023-10-08,CUST280,East,Gujarat,Chennai,Net Banking,4223.51,1
+ORD0282,2023-10-09,CUST181,East,Karnataka,Mumbai,Net Banking,1934.74,3
+ORD0283,2023-10-10,CUST095,North,Maharashtra,Delhi,Net Banking,4327.01,1
+ORD0284,2023-10-11,CUST099,North,Tamil Nadu,Pune,UPI,2152.66,1
+ORD0285,2023-10-12,CUST188,North,Maharashtra,Pune,Credit Card,1775.52,2
+ORD0286,2023-10-13,CUST116,South,Tamil Nadu,Pune,UPI,2379.15,3
+ORD0287,2023-10-14,CUST191,North,Delhi,Delhi,Credit Card,3859.75,1
+ORD0288,2023-10-15,CUST253,East,Gujarat,Ahmedabad,Credit Card,804.81,2
+ORD0289,2023-10-16,CUST161,North,Delhi,Mumbai,Debit Card,1142.81,4
+ORD0290,2023-10-17,CUST256,East,Karnataka,Delhi,Credit Card,4766.94,2
+ORD0291,2023-10-18,CUST128,West,Maharashtra,Pune,Credit Card,1042.36,2
+ORD0292,2023-10-19,CUST018,South,Tamil Nadu,Chennai,UPI,2925.09,1
+ORD0293,2023-10-20,CUST281,West,Tamil Nadu,Bangalore,Credit Card,2980.71,5
+ORD0294,2023-10-21,CUST223,West,Maharashtra,Delhi,UPI,2550.2,5
+ORD0295,2023-10-22,CUST054,East,Maharashtra,Delhi,Net Banking,3294.78,5
+ORD0296,2023-10-23,CUST058,West,Karnataka,Mumbai,Credit Card,1303.17,2
+ORD0297,2023-10-24,CUST174,East,Delhi,Mumbai,Credit Card,2852.78,1
+ORD0298,2023-10-25,CUST280,North,Tamil Nadu,Delhi,UPI,1986.43,3
+ORD0299,2023-10-26,CUST114,North,Karnataka,Pune,Net Banking,3376.0,2
+ORD0300,2023-10-27,CUST288,East,Delhi,Bangalore,Debit Card,877.87,2
+ORD0301,2023-10-28,CUST151,North,Karnataka,Mumbai,Net Banking,2940.21,1
+ORD0302,2023-10-29,CUST127,South,Tamil Nadu,Pune,UPI,1089.3,4
+ORD0303,2023-10-30,CUST155,West,Maharashtra,Chennai,Net Banking,1537.49,2
+ORD0304,2023-10-31,CUST273,South,Maharashtra,Mumbai,UPI,1249.81,4
+ORD0305,2023-11-01,CUST104,West,Delhi,Pune,UPI,1077.62,4
+ORD0306,2023-11-02,CUST299,North,Gujarat,Pune,Debit Card,4163.41,5
+ORD0307,2023-11-03,CUST246,South,Delhi,Bangalore,Credit Card,1571.4,1
+ORD0308,2023-11-04,CUST176,North,Gujarat,Bangalore,UPI,4650.19,4
+ORD0309,2023-11-05,CUST039,West,Karnataka,Chennai,UPI,4855.65,1
+ORD0310,2023-11-06,CUST170,East,Karnataka,Pune,Debit Card,2942.05,5
+ORD0311,2023-11-07,CUST247,East,Tamil Nadu,Ahmedabad,UPI,886.41,1
+ORD0312,2023-11-08,CUST026,South,Gujarat,Pune,Credit Card,1997.83,2
+ORD0313,2023-11-09,CUST013,North,Tamil Nadu,Bangalore,Debit Card,4029.11,4
+ORD0314,2023-11-10,CUST036,North,Maharashtra,Ahmedabad,Credit Card,1963.48,1
+ORD0315,2023-11-11,CUST173,South,Gujarat,Mumbai,Credit Card,617.68,3
+ORD0316,2023-11-12,CUST020,East,Delhi,Mumbai,Debit Card,2872.57,1
+ORD0317,2023-11-13,CUST264,West,Maharashtra,Delhi,UPI,4256.58,4
+ORD0318,2023-11-14,CUST142,South,Maharashtra,Bangalore,Credit Card,4020.45,5
+ORD0319,2023-11-15,CUST143,West,Delhi,Delhi,Credit Card,1040.59,5
+ORD0320,2023-11-16,CUST092,East,Maharashtra,Ahmedabad,Credit Card,3429.27,4
+ORD0321,2023-11-17,CUST288,North,Gujarat,Bangalore,Credit Card,1258.42,2
+ORD0322,2023-11-18,CUST215,East,Tamil Nadu,Chennai,Debit Card,1247.4,2
+ORD0323,2023-11-19,CUST051,South,Maharashtra,Pune,Debit Card,4395.54,5
+ORD0324,2023-11-20,CUST153,North,Gujarat,Chennai,Net Banking,1398.41,5
+ORD0325,2023-11-21,CUST186,South,Karnataka,Ahmedabad,Net Banking,1463.59,4
+ORD0326,2023-11-22,CUST063,South,Gujarat,Bangalore,Credit Card,203.14,2
+ORD0327,2023-11-23,CUST190,East,Tamil Nadu,Ahmedabad,UPI,4379.21,5
+ORD0328,2023-11-24,CUST125,South,Gujarat,Pune,Credit Card,4004.46,2
+ORD0329,2023-11-25,CUST150,East,Delhi,Mumbai,UPI,3211.18,5
+ORD0330,2023-11-26,CUST058,North,Tamil Nadu,Mumbai,Credit Card,3801.28,1
+ORD0331,2023-11-27,CUST180,East,Karnataka,Ahmedabad,Net Banking,929.83,3
+ORD0332,2023-11-28,CUST170,North,Delhi,Delhi,Net Banking,2399.95,1
+ORD0333,2023-11-29,CUST271,East,Gujarat,Bangalore,UPI,1885.85,5
+ORD0334,2023-11-30,CUST054,West,Tamil Nadu,Bangalore,Credit Card,650.13,3
+ORD0335,2023-12-01,CUST101,West,Karnataka,Mumbai,UPI,2533.43,3
+ORD0336,2023-12-02,CUST264,South,Delhi,Chennai,Net Banking,4619.55,5
+ORD0337,2023-12-03,CUST053,East,Karnataka,Pune,Credit Card,392.28,5
+ORD0338,2023-12-04,CUST060,East,Gujarat,Chennai,Credit Card,1599.01,2
+ORD0339,2023-12-05,CUST108,North,Karnataka,Chennai,UPI,1196.2,5
+ORD0340,2023-12-06,CUST005,South,Maharashtra,Ahmedabad,Debit Card,1343.1,4
+ORD0341,2023-12-07,CUST103,East,Delhi,Mumbai,UPI,4560.49,5
+ORD0342,2023-12-08,CUST196,South,Karnataka,Mumbai,Net Banking,2446.73,4
+ORD0343,2023-12-09,CUST262,West,Gujarat,Mumbai,Net Banking,2438.24,5
+ORD0344,2023-12-10,CUST047,East,Gujarat,Ahmedabad,Net Banking,3850.76,2
+ORD0345,2023-12-11,CUST144,East,Karnataka,Delhi,Net Banking,941.56,4
+ORD0346,2023-12-12,CUST269,South,Gujarat,Chennai,Net Banking,2538.87,1
+ORD0347,2023-12-13,CUST124,East,Tamil Nadu,Ahmedabad,Debit Card,2263.93,4
+ORD0348,2023-12-14,CUST106,South,Tamil Nadu,Bangalore,Credit Card,3065.17,2
+ORD0349,2023-12-15,CUST158,East,Tamil Nadu,Pune,UPI,4997.88,4
+ORD0350,2023-12-16,CUST147,North,Maharashtra,Delhi,UPI,3893.35,5
+ORD0351,2023-12-17,CUST145,South,Karnataka,Bangalore,Net Banking,2109.76,5
+ORD0352,2023-12-18,CUST120,East,Maharashtra,Chennai,UPI,4172.25,2
+ORD0353,2023-12-19,CUST275,West,Gujarat,Mumbai,Net Banking,1019.4,3
+ORD0354,2023-12-20,CUST092,East,Maharashtra,Chennai,Debit Card,346.23,5
+ORD0355,2023-12-21,CUST058,West,Gujarat,Ahmedabad,Debit Card,1181.35,1
+ORD0356,2023-12-22,CUST229,West,Gujarat,Pune,Credit Card,1833.98,2
+ORD0357,2023-12-23,CUST117,North,Delhi,Ahmedabad,Debit Card,2650.79,4
+ORD0358,2023-12-24,CUST279,South,Tamil Nadu,Delhi,Debit Card,3152.62,4
+ORD0359,2023-12-25,CUST127,East,Gujarat,Delhi,Credit Card,4570.91,1
+ORD0360,2023-12-26,CUST129,North,Delhi,Pune,UPI,2647.3,5
+ORD0361,2023-12-27,CUST058,East,Tamil Nadu,Bangalore,Net Banking,2606.12,2
+ORD0362,2023-12-28,CUST122,West,Gujarat,Bangalore,Net Banking,441.17,1
+ORD0363,2023-12-29,CUST001,South,Gujarat,Delhi,UPI,367.58,5
+ORD0364,2023-12-30,CUST239,East,Maharashtra,Delhi,Credit Card,2845.57,2
+ORD0365,2023-12-31,CUST290,East,Maharashtra,Mumbai,UPI,2303.26,4
+ORD0366,2024-01-01,CUST096,West,Tamil Nadu,Bangalore,Debit Card,4228.07,2
+ORD0367,2024-01-02,CUST126,East,Gujarat,Pune,Credit Card,971.26,3
+ORD0368,2024-01-03,CUST118,East,Karnataka,Bangalore,Credit Card,319.86,2
+ORD0369,2024-01-04,CUST048,West,Maharashtra,Mumbai,Credit Card,2355.39,3
+ORD0370,2024-01-05,CUST089,North,Tamil Nadu,Ahmedabad,Net Banking,1339.9,2
+ORD0371,2024-01-06,CUST237,West,Gujarat,Delhi,UPI,438.15,3
+ORD0372,2024-01-07,CUST272,North,Gujarat,Delhi,Credit Card,3678.07,4
+ORD0373,2024-01-08,CUST189,South,Karnataka,Mumbai,Credit Card,735.65,5
+ORD0374,2024-01-09,CUST192,North,Tamil Nadu,Pune,Credit Card,3119.93,3
+ORD0375,2024-01-10,CUST069,North,Gujarat,Delhi,UPI,1549.04,3
+ORD0376,2024-01-11,CUST278,South,Maharashtra,Chennai,Net Banking,1032.78,4
+ORD0377,2024-01-12,CUST247,North,Karnataka,Delhi,Debit Card,2022.81,3
+ORD0378,2024-01-13,CUST076,West,Tamil Nadu,Chennai,Net Banking,4046.94,1
+ORD0379,2024-01-14,CUST154,North,Karnataka,Mumbai,Credit Card,2082.05,4
+ORD0380,2024-01-15,CUST144,South,Maharashtra,Mumbai,Net Banking,3803.69,1
+ORD0381,2024-01-16,CUST086,West,Tamil Nadu,Delhi,Net Banking,802.33,4
+ORD0382,2024-01-17,CUST185,South,Karnataka,Bangalore,Debit Card,3909.3,3
+ORD0383,2024-01-18,CUST285,South,Delhi,Chennai,UPI,1337.28,1
+ORD0384,2024-01-19,CUST220,East,Maharashtra,Pune,UPI,3451.49,3
+ORD0385,2024-01-20,CUST069,East,Maharashtra,Delhi,Net Banking,2915.75,4
+ORD0386,2024-01-21,CUST047,South,Maharashtra,Pune,Net Banking,4659.89,3
+ORD0387,2024-01-22,CUST094,South,Delhi,Delhi,UPI,2059.15,1
+ORD0388,2024-01-23,CUST238,South,Delhi,Bangalore,UPI,517.59,1
+ORD0389,2024-01-24,CUST204,East,Gujarat,Bangalore,Debit Card,291.95,3
+ORD0390,2024-01-25,CUST218,East,Karnataka,Bangalore,Credit Card,4168.92,2
+ORD0391,2024-01-26,CUST039,North,Gujarat,Ahmedabad,Net Banking,2718.73,4
+ORD0392,2024-01-27,CUST100,North,Karnataka,Bangalore,UPI,3921.17,4
+ORD0393,2024-01-28,CUST289,South,Delhi,Mumbai,Net Banking,1325.24,3
+ORD0394,2024-01-29,CUST254,West,Delhi,Mumbai,Net Banking,1856.4,2
+ORD0395,2024-01-30,CUST222,West,Gujarat,Ahmedabad,UPI,344.5,1
+ORD0396,2024-01-31,CUST023,East,Tamil Nadu,Chennai,Debit Card,4815.16,5
+ORD0397,2024-02-01,CUST250,East,Gujarat,Pune,Net Banking,3405.77,5
+ORD0398,2024-02-02,CUST010,East,Karnataka,Delhi,Debit Card,4679.38,3
+ORD0399,2024-02-03,CUST246,South,Gujarat,Delhi,UPI,1474.38,2
+ORD0400,2024-02-04,CUST100,West,Maharashtra,Ahmedabad,Credit Card,3135.03,2
+ORD0401,2024-02-05,CUST290,North,Karnataka,Mumbai,Credit Card,3456.8,4
+ORD0402,2024-02-06,CUST180,South,Karnataka,Delhi,Net Banking,1724.24,1
+ORD0403,2024-02-07,CUST223,North,Tamil Nadu,Mumbai,UPI,4270.92,2
+ORD0404,2024-02-08,CUST250,North,Delhi,Chennai,Debit Card,4746.38,5
+ORD0405,2024-02-09,CUST147,South,Karnataka,Pune,Net Banking,4447.3,1
+ORD0406,2024-02-10,CUST096,North,Delhi,Chennai,UPI,3747.52,1
+ORD0407,2024-02-11,CUST257,West,Gujarat,Ahmedabad,UPI,1531.83,3
+ORD0408,2024-02-12,CUST004,North,Maharashtra,Bangalore,Debit Card,1551.76,2
+ORD0409,2024-02-13,CUST016,West,Tamil Nadu,Bangalore,Net Banking,4824.13,3
+ORD0410,2024-02-14,CUST280,West,Delhi,Bangalore,UPI,249.37,2
+ORD0411,2024-02-15,CUST247,West,Karnataka,Chennai,UPI,3637.04,4
+ORD0412,2024-02-16,CUST258,East,Delhi,Delhi,UPI,3589.98,3
+ORD0413,2024-02-17,CUST160,North,Karnataka,Pune,Debit Card,3188.91,3
+ORD0414,2024-02-18,CUST152,South,Delhi,Bangalore,Net Banking,4952.52,5
+ORD0415,2024-02-19,CUST178,South,Karnataka,Ahmedabad,Net Banking,1697.02,3
+ORD0416,2024-02-20,CUST163,North,Gujarat,Ahmedabad,Net Banking,1831.86,2
+ORD0417,2024-02-21,CUST033,East,Karnataka,Bangalore,Net Banking,578.91,5
+ORD0418,2024-02-22,CUST179,East,Karnataka,Bangalore,Credit Card,2325.43,3
+ORD0419,2024-02-23,CUST101,West,Maharashtra,Pune,Credit Card,1453.03,3
+ORD0420,2024-02-24,CUST268,North,Karnataka,Bangalore,Net Banking,1848.26,4
+ORD0421,2024-02-25,CUST065,North,Maharashtra,Pune,Debit Card,4205.94,3
+ORD0422,2024-02-26,CUST168,South,Tamil Nadu,Ahmedabad,Credit Card,4690.33,1
+ORD0423,2024-02-27,CUST043,North,Maharashtra,Bangalore,UPI,1091.52,5
+ORD0424,2024-02-28,CUST044,East,Gujarat,Chennai,Credit Card,1988.04,1
+ORD0425,2024-02-29,CUST285,North,Maharashtra,Chennai,UPI,4657.43,5
+ORD0426,2024-03-01,CUST012,South,Tamil Nadu,Ahmedabad,Net Banking,496.68,4
+ORD0427,2024-03-02,CUST095,West,Gujarat,Pune,Credit Card,643.33,3
+ORD0428,2024-03-03,CUST253,South,Delhi,Chennai,Debit Card,981.4,3
+ORD0429,2024-03-04,CUST242,South,Delhi,Pune,Credit Card,3057.02,3
+ORD0430,2024-03-05,CUST035,West,Maharashtra,Chennai,Credit Card,922.27,5
+ORD0431,2024-03-06,CUST215,South,Maharashtra,Chennai,Credit Card,4846.77,3
+ORD0432,2024-03-07,CUST090,South,Tamil Nadu,Pune,Net Banking,2344.23,1
+ORD0433,2024-03-08,CUST264,North,Tamil Nadu,Delhi,Debit Card,2607.29,3
+ORD0434,2024-03-09,CUST093,North,Karnataka,Chennai,Credit Card,1383.96,4
+ORD0435,2024-03-10,CUST090,West,Tamil Nadu,Bangalore,Debit Card,2460.61,1
+ORD0436,2024-03-11,CUST115,North,Karnataka,Ahmedabad,Net Banking,3377.19,3
+ORD0437,2024-03-12,CUST105,North,Gujarat,Delhi,UPI,3805.65,3
+ORD0438,2024-03-13,CUST196,South,Maharashtra,Pune,Credit Card,3818.57,2
+ORD0439,2024-03-14,CUST114,East,Gujarat,Delhi,Debit Card,2973.88,5
+ORD0440,2024-03-15,CUST075,North,Tamil Nadu,Mumbai,Debit Card,4540.93,1
+ORD0441,2024-03-16,CUST217,East,Gujarat,Mumbai,Net Banking,4123.56,2
+ORD0442,2024-03-17,CUST277,North,Gujarat,Chennai,Credit Card,3833.83,4
+ORD0443,2024-03-18,CUST249,North,Gujarat,Chennai,UPI,466.91,5
+ORD0444,2024-03-19,CUST164,West,Tamil Nadu,Bangalore,Debit Card,233.01,1
+ORD0445,2024-03-20,CUST192,West,Gujarat,Ahmedabad,Credit Card,1219.75,3
+ORD0446,2024-03-21,CUST227,West,Karnataka,Delhi,UPI,3384.91,1
+ORD0447,2024-03-22,CUST177,East,Tamil Nadu,Mumbai,Debit Card,2173.75,3
+ORD0448,2024-03-23,CUST099,South,Gujarat,Chennai,Debit Card,2131.55,5
+ORD0449,2024-03-24,CUST036,North,Tamil Nadu,Ahmedabad,UPI,4446.02,3
+ORD0450,2024-03-25,CUST096,North,Delhi,Delhi,UPI,4498.7,4
+ORD0451,2024-03-26,CUST152,North,Karnataka,Chennai,Net Banking,4564.04,3
+ORD0452,2024-03-27,CUST151,East,Gujarat,Chennai,Credit Card,1706.61,4
+ORD0453,2024-03-28,CUST190,West,Delhi,Mumbai,Credit Card,3517.07,5
+ORD0454,2024-03-29,CUST224,South,Delhi,Mumbai,Net Banking,1503.84,5
+ORD0455,2024-03-30,CUST037,East,Tamil Nadu,Chennai,Debit Card,1114.93,1
+ORD0456,2024-03-31,CUST268,West,Delhi,Pune,UPI,1086.24,4
+ORD0457,2024-04-01,CUST183,East,Karnataka,Chennai,UPI,1842.12,4
+ORD0458,2024-04-02,CUST013,South,Karnataka,Ahmedabad,UPI,2263.8,2
+ORD0459,2024-04-03,CUST279,West,Maharashtra,Chennai,Debit Card,4188.56,2
+ORD0460,2024-04-04,CUST217,East,Karnataka,Bangalore,UPI,775.48,2
+ORD0461,2024-04-05,CUST286,South,Delhi,Bangalore,UPI,3727.64,3
+ORD0462,2024-04-06,CUST273,North,Karnataka,Bangalore,Net Banking,2750.98,2
+ORD0463,2024-04-07,CUST062,South,Tamil Nadu,Pune,Debit Card,1582.14,4
+ORD0464,2024-04-08,CUST084,North,Maharashtra,Pune,Credit Card,2565.53,3
+ORD0465,2024-04-09,CUST217,East,Delhi,Chennai,Net Banking,1639.72,5
+ORD0466,2024-04-10,CUST187,West,Maharashtra,Bangalore,Net Banking,3061.19,1
+ORD0467,2024-04-11,CUST019,West,Delhi,Pune,Credit Card,2282.45,2
+ORD0468,2024-04-12,CUST177,East,Tamil Nadu,Mumbai,Net Banking,989.15,5
+ORD0469,2024-04-13,CUST100,West,Maharashtra,Chennai,Debit Card,759.6,4
+ORD0470,2024-04-14,CUST233,West,Gujarat,Ahmedabad,UPI,2824.14,1
+ORD0471,2024-04-15,CUST076,North,Delhi,Delhi,Debit Card,4531.58,5
+ORD0472,2024-04-16,CUST265,East,Gujarat,Chennai,Credit Card,1851.0,1
+ORD0473,2024-04-17,CUST284,South,Maharashtra,Delhi,Credit Card,3718.4,2
+ORD0474,2024-04-18,CUST206,North,Gujarat,Bangalore,Net Banking,3361.57,4
+ORD0475,2024-04-19,CUST223,East,Gujarat,Delhi,Debit Card,4671.46,1
+ORD0476,2024-04-20,CUST052,North,Maharashtra,Bangalore,Debit Card,4140.71,5
+ORD0477,2024-04-21,CUST144,South,Tamil Nadu,Mumbai,Credit Card,2919.71,2
+ORD0478,2024-04-22,CUST069,South,Gujarat,Delhi,Debit Card,3353.75,2
+ORD0479,2024-04-23,CUST099,East,Gujarat,Chennai,Credit Card,4512.26,5
+ORD0480,2024-04-24,CUST025,South,Tamil Nadu,Bangalore,Debit Card,2117.69,5
+ORD0481,2024-04-25,CUST053,North,Gujarat,Chennai,Debit Card,1768.61,1
+ORD0482,2024-04-26,CUST151,South,Gujarat,Pune,Debit Card,251.89,3
+ORD0483,2024-04-27,CUST144,North,Gujarat,Bangalore,Credit Card,4167.45,2
+ORD0484,2024-04-28,CUST057,North,Karnataka,Delhi,Net Banking,4044.71,1
+ORD0485,2024-04-29,CUST039,South,Tamil Nadu,Bangalore,Debit Card,701.38,5
+ORD0486,2024-04-30,CUST109,East,Gujarat,Chennai,Credit Card,2968.92,1
+ORD0487,2024-05-01,CUST181,West,Tamil Nadu,Mumbai,Credit Card,2427.11,5
+ORD0488,2024-05-02,CUST042,South,Delhi,Bangalore,Debit Card,769.8,4
+ORD0489,2024-05-03,CUST186,North,Delhi,Delhi,Debit Card,4906.73,5
+ORD0490,2024-05-04,CUST223,North,Gujarat,Pune,Net Banking,1230.54,5
+ORD0491,2024-05-05,CUST122,South,Tamil Nadu,Ahmedabad,Credit Card,522.72,5
+ORD0492,2024-05-06,CUST133,East,Tamil Nadu,Mumbai,Credit Card,3055.27,3
+ORD0493,2024-05-07,CUST163,East,Tamil Nadu,Pune,UPI,3746.56,5
+ORD0494,2024-05-08,CUST215,North,Karnataka,Bangalore,Credit Card,355.73,2
+ORD0495,2024-05-09,CUST221,North,Delhi,Chennai,Net Banking,3361.84,2
+ORD0496,2024-05-10,CUST235,East,Tamil Nadu,Chennai,UPI,2755.0,1
+ORD0497,2024-05-11,CUST146,West,Tamil Nadu,Delhi,UPI,695.67,3
+ORD0498,2024-05-12,CUST239,South,Karnataka,Chennai,UPI,1028.11,1
+ORD0499,2024-05-13,CUST076,North,Karnataka,Mumbai,Debit Card,2926.28,2
+ORD0500,2024-05-14,CUST009,North,Tamil Nadu,Chennai,Debit Card,1622.52,2
+ORD0501,2024-05-15,CUST074,East,Maharashtra,Delhi,Credit Card,4703.92,4
+ORD0502,2024-05-16,CUST253,South,Tamil Nadu,Ahmedabad,UPI,4129.95,5
+ORD0503,2024-05-17,CUST230,East,Tamil Nadu,Bangalore,Net Banking,4921.12,2
+ORD0504,2024-05-18,CUST007,South,Karnataka,Bangalore,Debit Card,1446.42,1
+ORD0505,2024-05-19,CUST174,South,Karnataka,Chennai,Net Banking,4854.67,1
+ORD0506,2024-05-20,CUST141,South,Tamil Nadu,Pune,Net Banking,2269.92,5
+ORD0507,2024-05-21,CUST168,North,Tamil Nadu,Bangalore,Debit Card,1868.09,5
+ORD0508,2024-05-22,CUST170,West,Tamil Nadu,Ahmedabad,Debit Card,441.68,4
+ORD0509,2024-05-23,CUST283,East,Karnataka,Chennai,Debit Card,453.27,3
+ORD0510,2024-05-24,CUST122,West,Tamil Nadu,Delhi,Debit Card,3521.65,1
+ORD0511,2024-05-25,CUST194,East,Tamil Nadu,Ahmedabad,UPI,2398.06,5
+ORD0512,2024-05-26,CUST005,South,Gujarat,Chennai,UPI,1287.3,1
+ORD0513,2024-05-27,CUST029,North,Maharashtra,Ahmedabad,UPI,3147.06,5
+ORD0514,2024-05-28,CUST165,West,Delhi,Bangalore,UPI,1413.72,2
+ORD0515,2024-05-29,CUST136,North,Maharashtra,Delhi,Credit Card,2972.63,1
+ORD0516,2024-05-30,CUST145,East,Gujarat,Chennai,UPI,1924.2,2
+ORD0517,2024-05-31,CUST217,North,Delhi,Mumbai,Debit Card,4153.05,1
+ORD0518,2024-06-01,CUST132,North,Tamil Nadu,Delhi,Net Banking,4139.34,3
+ORD0519,2024-06-02,CUST292,West,Gujarat,Mumbai,UPI,2491.28,4
+ORD0520,2024-06-03,CUST070,South,Tamil Nadu,Ahmedabad,Credit Card,1883.93,2
+ORD0521,2024-06-04,CUST252,North,Karnataka,Pune,Debit Card,1940.29,5
+ORD0522,2024-06-05,CUST275,South,Gujarat,Delhi,Net Banking,4067.43,3
+ORD0523,2024-06-06,CUST182,East,Karnataka,Ahmedabad,Net Banking,1775.26,1
+ORD0524,2024-06-07,CUST167,North,Gujarat,Mumbai,UPI,1203.48,2
+ORD0525,2024-06-08,CUST091,West,Gujarat,Bangalore,Net Banking,606.5,1
+ORD0526,2024-06-09,CUST202,East,Karnataka,Bangalore,UPI,2440.13,1
+ORD0527,2024-06-10,CUST019,East,Delhi,Pune,UPI,2514.23,1
+ORD0528,2024-06-11,CUST039,West,Maharashtra,Delhi,Debit Card,4236.36,4
+ORD0529,2024-06-12,CUST126,North,Tamil Nadu,Delhi,Debit Card,1261.95,4
+ORD0530,2024-06-13,CUST173,North,Gujarat,Delhi,Credit Card,2028.76,5
+ORD0531,2024-06-14,CUST141,East,Tamil Nadu,Ahmedabad,Debit Card,4080.35,2
+ORD0532,2024-06-15,CUST242,North,Karnataka,Pune,Debit Card,4153.39,3
+ORD0533,2024-06-16,CUST220,South,Tamil Nadu,Delhi,UPI,2046.13,3
+ORD0534,2024-06-17,CUST126,West,Karnataka,Ahmedabad,Debit Card,2403.8,3
+ORD0535,2024-06-18,CUST058,South,Tamil Nadu,Bangalore,UPI,1655.77,1
+ORD0536,2024-06-19,CUST148,North,Maharashtra,Mumbai,UPI,4676.26,4
+ORD0537,2024-06-20,CUST001,East,Maharashtra,Ahmedabad,Debit Card,769.49,2
+ORD0538,2024-06-21,CUST190,West,Maharashtra,Bangalore,Credit Card,4682.0,1
+ORD0539,2024-06-22,CUST191,North,Maharashtra,Bangalore,Credit Card,3482.56,4
+ORD0540,2024-06-23,CUST117,North,Maharashtra,Mumbai,Net Banking,2751.55,4
+ORD0541,2024-06-24,CUST134,East,Maharashtra,Bangalore,Net Banking,356.76,2
+ORD0542,2024-06-25,CUST058,East,Karnataka,Pune,Debit Card,2482.86,2
+ORD0543,2024-06-26,CUST044,South,Gujarat,Mumbai,Credit Card,2157.19,2
+ORD0544,2024-06-27,CUST173,West,Tamil Nadu,Bangalore,UPI,973.85,1
+ORD0545,2024-06-28,CUST160,West,Maharashtra,Chennai,Net Banking,3350.77,5
+ORD0546,2024-06-29,CUST173,East,Karnataka,Ahmedabad,UPI,4861.52,2
+ORD0547,2024-06-30,CUST149,South,Karnataka,Bangalore,Net Banking,2898.51,5
+ORD0548,2024-07-01,CUST080,West,Karnataka,Pune,Debit Card,3630.82,1
+ORD0549,2024-07-02,CUST213,East,Gujarat,Delhi,Credit Card,528.56,5
+ORD0550,2024-07-03,CUST203,North,Tamil Nadu,Bangalore,Net Banking,2204.8,3
+ORD0551,2024-07-04,CUST252,West,Gujarat,Delhi,Credit Card,758.52,5
+ORD0552,2024-07-05,CUST229,South,Delhi,Chennai,UPI,3141.42,2
+ORD0553,2024-07-06,CUST164,South,Karnataka,Bangalore,Debit Card,4704.71,1
+ORD0554,2024-07-07,CUST227,South,Delhi,Mumbai,Credit Card,3376.53,2
+ORD0555,2024-07-08,CUST147,North,Maharashtra,Delhi,Debit Card,568.65,3
+ORD0556,2024-07-09,CUST020,West,Maharashtra,Chennai,Credit Card,1902.4,2
+ORD0557,2024-07-10,CUST047,West,Gujarat,Mumbai,UPI,2843.18,2
+ORD0558,2024-07-11,CUST233,North,Tamil Nadu,Mumbai,UPI,2135.4,2
+ORD0559,2024-07-12,CUST014,West,Delhi,Mumbai,Debit Card,4201.49,4
+ORD0560,2024-07-13,CUST143,North,Tamil Nadu,Mumbai,UPI,4110.42,3
+ORD0561,2024-07-14,CUST001,North,Gujarat,Bangalore,Net Banking,3136.79,2
+ORD0562,2024-07-15,CUST054,North,Maharashtra,Ahmedabad,Credit Card,1992.6,2
+ORD0563,2024-07-16,CUST259,South,Tamil Nadu,Bangalore,UPI,1425.61,2
+ORD0564,2024-07-17,CUST144,West,Tamil Nadu,Bangalore,Net Banking,708.2,1
+ORD0565,2024-07-18,CUST012,North,Maharashtra,Chennai,Debit Card,1903.51,4
+ORD0566,2024-07-19,CUST224,West,Delhi,Chennai,Net Banking,2183.23,1
+ORD0567,2024-07-20,CUST272,South,Maharashtra,Ahmedabad,Debit Card,3443.95,4
+ORD0568,2024-07-21,CUST156,North,Tamil Nadu,Chennai,Debit Card,3359.17,2
+ORD0569,2024-07-22,CUST008,East,Delhi,Pune,Credit Card,536.52,3
+ORD0570,2024-07-23,CUST122,South,Delhi,Ahmedabad,Credit Card,2097.24,5
+ORD0571,2024-07-24,CUST164,East,Maharashtra,Chennai,Net Banking,1072.54,5
+ORD0572,2024-07-25,CUST090,West,Tamil Nadu,Ahmedabad,Credit Card,952.7,2
+ORD0573,2024-07-26,CUST136,West,Gujarat,Bangalore,Credit Card,4171.05,1
+ORD0574,2024-07-27,CUST186,South,Tamil Nadu,Bangalore,Credit Card,401.19,3
+ORD0575,2024-07-28,CUST178,West,Karnataka,Ahmedabad,Net Banking,2212.08,4
+ORD0576,2024-07-29,CUST028,East,Gujarat,Pune,UPI,1007.38,2
+ORD0577,2024-07-30,CUST220,North,Delhi,Pune,Credit Card,4420.79,3
+ORD0578,2024-07-31,CUST041,North,Gujarat,Ahmedabad,Credit Card,2873.79,3
+ORD0579,2024-08-01,CUST228,North,Delhi,Chennai,Net Banking,1310.63,4
+ORD0580,2024-08-02,CUST192,South,Delhi,Delhi,UPI,2611.65,3
+ORD0581,2024-08-03,CUST145,West,Gujarat,Pune,Credit Card,3711.13,1
+ORD0582,2024-08-04,CUST201,East,Delhi,Mumbai,Debit Card,4798.97,1
+ORD0583,2024-08-05,CUST212,West,Delhi,Bangalore,Net Banking,1258.14,1
+ORD0584,2024-08-06,CUST220,West,Karnataka,Ahmedabad,Credit Card,4453.67,3
+ORD0585,2024-08-07,CUST240,West,Tamil Nadu,Mumbai,Credit Card,4684.66,1
+ORD0586,2024-08-08,CUST046,North,Tamil Nadu,Ahmedabad,Debit Card,4598.82,4
+ORD0587,2024-08-09,CUST035,East,Karnataka,Bangalore,Debit Card,3249.99,3
+ORD0588,2024-08-10,CUST253,East,Gujarat,Bangalore,Net Banking,3223.14,5
+ORD0589,2024-08-11,CUST082,West,Maharashtra,Pune,Net Banking,2135.41,3
+ORD0590,2024-08-12,CUST256,North,Maharashtra,Pune,Debit Card,3811.51,4
+ORD0591,2024-08-13,CUST197,North,Maharashtra,Mumbai,Net Banking,2750.21,5
+ORD0592,2024-08-14,CUST010,East,Karnataka,Ahmedabad,Debit Card,3451.7,3
+ORD0593,2024-08-15,CUST286,North,Karnataka,Bangalore,Credit Card,2256.6,1
+ORD0594,2024-08-16,CUST242,North,Delhi,Mumbai,Debit Card,3711.18,2
+ORD0595,2024-08-17,CUST251,North,Maharashtra,Delhi,Debit Card,4157.46,2
+ORD0596,2024-08-18,CUST005,South,Gujarat,Mumbai,UPI,902.89,1
+ORD0597,2024-08-19,CUST119,West,Gujarat,Chennai,Debit Card,4198.06,2
+ORD0598,2024-08-20,CUST289,East,Maharashtra,Mumbai,Debit Card,2793.42,2
+ORD0599,2024-08-21,CUST065,East,Maharashtra,Chennai,UPI,4254.4,1
+ORD0600,2024-08-22,CUST146,South,Maharashtra,Chennai,Net Banking,2270.25,1
+ORD0601,2024-08-23,CUST224,West,Karnataka,Chennai,UPI,2019.39,3
+ORD0602,2024-08-24,CUST239,East,Karnataka,Delhi,Credit Card,4592.29,3
+ORD0603,2024-08-25,CUST177,North,Karnataka,Mumbai,UPI,1405.61,1
+ORD0604,2024-08-26,CUST267,East,Tamil Nadu,Mumbai,Credit Card,4252.22,4
+ORD0605,2024-08-27,CUST282,North,Gujarat,Delhi,Net Banking,2523.3,2
+ORD0606,2024-08-28,CUST063,South,Gujarat,Bangalore,UPI,2667.66,3
+ORD0607,2024-08-29,CUST217,North,Delhi,Pune,UPI,1680.65,2
+ORD0608,2024-08-30,CUST283,East,Karnataka,Mumbai,Net Banking,2950.6,5
+ORD0609,2024-08-31,CUST177,East,Tamil Nadu,Pune,Credit Card,1761.01,1
+ORD0610,2024-09-01,CUST098,East,Tamil Nadu,Ahmedabad,UPI,388.49,4
+ORD0611,2024-09-02,CUST105,South,Gujarat,Ahmedabad,Credit Card,1505.59,5
+ORD0612,2024-09-03,CUST099,South,Karnataka,Delhi,UPI,230.62,5
+ORD0613,2024-09-04,CUST006,West,Delhi,Ahmedabad,Debit Card,4896.1,5
+ORD0614,2024-09-05,CUST197,East,Karnataka,Ahmedabad,UPI,4835.59,1
+ORD0615,2024-09-06,CUST133,North,Maharashtra,Bangalore,Net Banking,2096.75,3
+ORD0616,2024-09-07,CUST259,South,Karnataka,Bangalore,Net Banking,3696.18,1
+ORD0617,2024-09-08,CUST023,East,Maharashtra,Bangalore,Credit Card,1859.87,3
+ORD0618,2024-09-09,CUST053,East,Maharashtra,Ahmedabad,UPI,3421.25,5
+ORD0619,2024-09-10,CUST165,South,Delhi,Delhi,Credit Card,4066.06,5
+ORD0620,2024-09-11,CUST202,West,Gujarat,Chennai,Credit Card,4744.43,4
+ORD0621,2024-09-12,CUST083,South,Karnataka,Chennai,Debit Card,2121.02,3
+ORD0622,2024-09-13,CUST145,South,Maharashtra,Pune,Debit Card,3959.83,5
+ORD0623,2024-09-14,CUST085,North,Karnataka,Chennai,Net Banking,1476.46,2
+ORD0624,2024-09-15,CUST078,North,Gujarat,Chennai,Credit Card,4953.6,4
+ORD0625,2024-09-16,CUST001,West,Gujarat,Bangalore,Net Banking,323.69,1
+ORD0626,2024-09-17,CUST051,East,Tamil Nadu,Bangalore,UPI,3096.94,4
+ORD0627,2024-09-18,CUST173,South,Gujarat,Ahmedabad,Credit Card,3365.63,2
+ORD0628,2024-09-19,CUST205,West,Delhi,Pune,Credit Card,3502.62,3
+ORD0629,2024-09-20,CUST260,North,Maharashtra,Mumbai,UPI,777.86,1
+ORD0630,2024-09-21,CUST288,South,Tamil Nadu,Pune,UPI,4704.94,1
+ORD0631,2024-09-22,CUST034,East,Delhi,Pune,Net Banking,1069.68,3
+ORD0632,2024-09-23,CUST095,North,Karnataka,Delhi,Net Banking,3189.22,4
+ORD0633,2024-09-24,CUST072,North,Maharashtra,Ahmedabad,UPI,1268.85,5
+ORD0634,2024-09-25,CUST039,North,Gujarat,Delhi,Net Banking,1674.64,4
+ORD0635,2024-09-26,CUST154,West,Maharashtra,Pune,UPI,2823.0,2
+ORD0636,2024-09-27,CUST250,East,Karnataka,Pune,Credit Card,2202.53,5
+ORD0637,2024-09-28,CUST162,South,Tamil Nadu,Pune,Credit Card,969.08,4
+ORD0638,2024-09-29,CUST118,West,Tamil Nadu,Chennai,Debit Card,1020.49,3
+ORD0639,2024-09-30,CUST259,West,Tamil Nadu,Delhi,Credit Card,2207.09,2
+ORD0640,2024-10-01,CUST268,West,Gujarat,Pune,UPI,3834.96,2
+ORD0641,2024-10-02,CUST054,North,Delhi,Bangalore,Net Banking,4510.23,2
+ORD0642,2024-10-03,CUST236,East,Delhi,Ahmedabad,Debit Card,603.81,5
+ORD0643,2024-10-04,CUST222,West,Maharashtra,Ahmedabad,Net Banking,2086.9,1
+ORD0644,2024-10-05,CUST251,South,Gujarat,Bangalore,UPI,681.18,5
+ORD0645,2024-10-06,CUST112,East,Tamil Nadu,Ahmedabad,Credit Card,279.64,4
+ORD0646,2024-10-07,CUST255,South,Tamil Nadu,Chennai,Debit Card,3376.25,1
+ORD0647,2024-10-08,CUST207,East,Karnataka,Chennai,UPI,3091.76,4
+ORD0648,2024-10-09,CUST229,South,Karnataka,Mumbai,Debit Card,982.49,1
+ORD0649,2024-10-10,CUST066,North,Tamil Nadu,Mumbai,Debit Card,1322.3,5
+ORD0650,2024-10-11,CUST075,West,Tamil Nadu,Mumbai,Credit Card,313.8,2
+ORD0651,2024-10-12,CUST103,South,Gujarat,Ahmedabad,UPI,4207.75,3
+ORD0652,2024-10-13,CUST192,East,Delhi,Chennai,Net Banking,4878.51,2
+ORD0653,2024-10-14,CUST252,West,Karnataka,Chennai,Debit Card,850.21,5
+ORD0654,2024-10-15,CUST226,West,Delhi,Chennai,Debit Card,1311.08,1
+ORD0655,2024-10-16,CUST294,East,Gujarat,Bangalore,Net Banking,4368.37,2
+ORD0656,2024-10-17,CUST098,South,Tamil Nadu,Chennai,UPI,4647.03,5
+ORD0657,2024-10-18,CUST286,North,Delhi,Bangalore,Debit Card,2214.21,4
+ORD0658,2024-10-19,CUST249,North,Tamil Nadu,Mumbai,Debit Card,442.99,3
+ORD0659,2024-10-20,CUST166,South,Tamil Nadu,Mumbai,Debit Card,389.08,2
+ORD0660,2024-10-21,CUST030,West,Maharashtra,Ahmedabad,UPI,2954.96,1
+ORD0661,2024-10-22,CUST247,West,Delhi,Mumbai,UPI,2085.9,4
+ORD0662,2024-10-23,CUST106,West,Delhi,Ahmedabad,Net Banking,337.53,5
+ORD0663,2024-10-24,CUST051,West,Tamil Nadu,Pune,UPI,2999.61,3
+ORD0664,2024-10-25,CUST081,South,Gujarat,Pune,UPI,254.25,1
+ORD0665,2024-10-26,CUST133,West,Maharashtra,Delhi,Credit Card,3979.39,5
+ORD0666,2024-10-27,CUST285,East,Tamil Nadu,Ahmedabad,Net Banking,1670.88,5
+ORD0667,2024-10-28,CUST138,West,Karnataka,Delhi,Debit Card,393.24,2
+ORD0668,2024-10-29,CUST184,North,Karnataka,Delhi,UPI,3024.09,2
+ORD0669,2024-10-30,CUST273,West,Maharashtra,Pune,Debit Card,2108.89,1
+ORD0670,2024-10-31,CUST069,South,Gujarat,Ahmedabad,Debit Card,4874.24,5
+ORD0671,2024-11-01,CUST034,North,Tamil Nadu,Pune,Credit Card,2812.15,2
+ORD0672,2024-11-02,CUST262,South,Delhi,Delhi,UPI,1521.15,3
+ORD0673,2024-11-03,CUST053,South,Maharashtra,Ahmedabad,Net Banking,3605.31,3
+ORD0674,2024-11-04,CUST205,North,Gujarat,Delhi,UPI,1503.16,5
+ORD0675,2024-11-05,CUST126,South,Delhi,Chennai,Debit Card,4540.37,2
+ORD0676,2024-11-06,CUST235,South,Karnataka,Ahmedabad,Net Banking,1998.67,1
+ORD0677,2024-11-07,CUST043,West,Karnataka,Ahmedabad,UPI,2839.37,1
+ORD0678,2024-11-08,CUST240,East,Delhi,Delhi,Debit Card,442.75,1
+ORD0679,2024-11-09,CUST111,South,Maharashtra,Chennai,Debit Card,2245.38,3
+ORD0680,2024-11-10,CUST249,South,Karnataka,Bangalore,Credit Card,4195.34,2
+ORD0681,2024-11-11,CUST151,South,Tamil Nadu,Pune,Credit Card,4067.11,2
+ORD0682,2024-11-12,CUST183,West,Delhi,Delhi,Credit Card,1276.73,3
+ORD0683,2024-11-13,CUST095,East,Delhi,Ahmedabad,Debit Card,1285.18,1
+ORD0684,2024-11-14,CUST008,North,Karnataka,Pune,UPI,4123.07,1
+ORD0685,2024-11-15,CUST184,West,Maharashtra,Pune,Credit Card,4665.91,5
+ORD0686,2024-11-16,CUST281,West,Tamil Nadu,Pune,UPI,657.73,4
+ORD0687,2024-11-17,CUST195,East,Maharashtra,Bangalore,Credit Card,2360.28,2
+ORD0688,2024-11-18,CUST195,East,Gujarat,Mumbai,Net Banking,1819.78,2
+ORD0689,2024-11-19,CUST155,West,Gujarat,Delhi,Net Banking,4379.3,2
+ORD0690,2024-11-20,CUST093,North,Karnataka,Mumbai,Credit Card,600.92,4
+ORD0691,2024-11-21,CUST160,West,Karnataka,Mumbai,Debit Card,1213.4,5
+ORD0692,2024-11-22,CUST061,East,Karnataka,Mumbai,Credit Card,3811.85,4
+ORD0693,2024-11-23,CUST122,North,Gujarat,Pune,Credit Card,446.21,1
+ORD0694,2024-11-24,CUST051,East,Maharashtra,Chennai,Debit Card,2564.17,1
+ORD0695,2024-11-25,CUST277,North,Maharashtra,Pune,Net Banking,2322.11,2
+ORD0696,2024-11-26,CUST005,South,Karnataka,Pune,UPI,1805.13,3
+ORD0697,2024-11-27,CUST092,East,Tamil Nadu,Ahmedabad,Credit Card,2093.95,2
+ORD0698,2024-11-28,CUST170,East,Maharashtra,Ahmedabad,Debit Card,2743.71,3
+ORD0699,2024-11-29,CUST022,West,Gujarat,Mumbai,Credit Card,974.56,4
+ORD0700,2024-11-30,CUST001,East,Delhi,Pune,Debit Card,2945.58,1
+ORD0701,2024-12-01,CUST133,East,Delhi,Mumbai,UPI,4066.08,3
+ORD0702,2024-12-02,CUST233,South,Delhi,Ahmedabad,UPI,3848.77,4
+ORD0703,2024-12-03,CUST012,East,Tamil Nadu,Chennai,Net Banking,938.72,1
+ORD0704,2024-12-04,CUST046,South,Karnataka,Delhi,Debit Card,916.4,3
+ORD0705,2024-12-05,CUST034,South,Gujarat,Mumbai,Debit Card,1487.24,2
+ORD0706,2024-12-06,CUST078,South,Tamil Nadu,Chennai,Net Banking,1933.16,2
+ORD0707,2024-12-07,CUST218,South,Gujarat,Delhi,Net Banking,2160.59,2
+ORD0708,2024-12-08,CUST073,North,Gujarat,Bangalore,Debit Card,3462.55,4
+ORD0709,2024-12-09,CUST282,West,Karnataka,Mumbai,Net Banking,472.07,2
+ORD0710,2024-12-10,CUST249,North,Delhi,Mumbai,UPI,366.43,5
+ORD0711,2024-12-11,CUST047,East,Karnataka,Bangalore,Credit Card,2081.17,1
+ORD0712,2024-12-12,CUST121,North,Tamil Nadu,Bangalore,UPI,3546.39,4
+ORD0713,2024-12-13,CUST214,North,Tamil Nadu,Mumbai,Net Banking,1128.49,2
+ORD0714,2024-12-14,CUST239,East,Tamil Nadu,Bangalore,Debit Card,3279.22,1
+ORD0715,2024-12-15,CUST056,East,Karnataka,Pune,Debit Card,1447.18,3
+ORD0716,2024-12-16,CUST107,East,Gujarat,Delhi,UPI,4453.21,2
+ORD0717,2024-12-17,CUST048,North,Gujarat,Delhi,Debit Card,4499.31,1
+ORD0718,2024-12-18,CUST061,North,Maharashtra,Delhi,Net Banking,1626.98,5
+ORD0719,2024-12-19,CUST026,East,Tamil Nadu,Pune,UPI,1303.97,3
+ORD0720,2024-12-20,CUST292,West,Gujarat,Bangalore,Debit Card,2174.26,5
+ORD0721,2024-12-21,CUST257,West,Maharashtra,Chennai,Credit Card,1354.55,1
+ORD0722,2024-12-22,CUST008,South,Gujarat,Bangalore,Credit Card,3427.44,5
+ORD0723,2024-12-23,CUST113,East,Tamil Nadu,Mumbai,Net Banking,4165.11,1
+ORD0724,2024-12-24,CUST253,South,Delhi,Ahmedabad,Debit Card,3430.84,1
+ORD0725,2024-12-25,CUST180,West,Tamil Nadu,Delhi,Net Banking,4156.88,5
+ORD0726,2024-12-26,CUST207,South,Karnataka,Bangalore,UPI,2105.56,1
+ORD0727,2024-12-27,CUST127,East,Gujarat,Chennai,Credit Card,950.32,2
+ORD0728,2024-12-28,CUST056,East,Gujarat,Mumbai,UPI,3742.16,1
+ORD0729,2024-12-29,CUST214,East,Karnataka,Pune,Debit Card,1930.28,4
+ORD0730,2024-12-30,CUST014,North,Karnataka,Pune,Net Banking,3422.1,1
+ORD0731,2024-12-31,CUST028,South,Delhi,Chennai,Net Banking,1499.09,4
+ORD0732,2025-01-01,CUST078,West,Gujarat,Mumbai,Net Banking,589.9,1
+ORD0733,2025-01-02,CUST216,West,Gujarat,Delhi,UPI,4964.39,1
+ORD0734,2025-01-03,CUST154,West,Delhi,Bangalore,Credit Card,949.77,5
+ORD0735,2025-01-04,CUST014,North,Maharashtra,Mumbai,UPI,4944.42,2
+ORD0736,2025-01-05,CUST187,North,Delhi,Pune,UPI,4890.94,2
+ORD0737,2025-01-06,CUST007,East,Tamil Nadu,Chennai,Debit Card,4010.33,3
+ORD0738,2025-01-07,CUST003,West,Gujarat,Chennai,Debit Card,3365.23,5
+ORD0739,2025-01-08,CUST111,North,Karnataka,Bangalore,Debit Card,2973.47,5
+ORD0740,2025-01-09,CUST238,East,Tamil Nadu,Chennai,Credit Card,4357.29,2
+ORD0741,2025-01-10,CUST239,West,Gujarat,Chennai,Credit Card,1589.31,5
+ORD0742,2025-01-11,CUST274,South,Delhi,Mumbai,Debit Card,2444.87,2
+ORD0743,2025-01-12,CUST294,East,Tamil Nadu,Delhi,Debit Card,3173.07,5
+ORD0744,2025-01-13,CUST227,North,Gujarat,Bangalore,Credit Card,2173.71,1
+ORD0745,2025-01-14,CUST015,North,Maharashtra,Mumbai,Net Banking,2251.93,2
+ORD0746,2025-01-15,CUST192,East,Maharashtra,Delhi,Credit Card,1785.37,2
+ORD0747,2025-01-16,CUST119,East,Karnataka,Mumbai,Credit Card,2908.31,4
+ORD0748,2025-01-17,CUST028,North,Gujarat,Ahmedabad,Credit Card,4282.76,5
+ORD0749,2025-01-18,CUST202,South,Maharashtra,Mumbai,Debit Card,1167.34,5
+ORD0750,2025-01-19,CUST039,West,Delhi,Chennai,Net Banking,4685.28,2
+ORD0751,2025-01-20,CUST273,South,Gujarat,Delhi,Credit Card,3507.62,1
+ORD0752,2025-01-21,CUST231,East,Delhi,Bangalore,Debit Card,4151.71,1
+ORD0753,2025-01-22,CUST086,South,Delhi,Bangalore,UPI,2869.72,1
+ORD0754,2025-01-23,CUST126,North,Maharashtra,Delhi,UPI,3941.68,5
+ORD0755,2025-01-24,CUST300,East,Gujarat,Chennai,Credit Card,277.76,4
+ORD0756,2025-01-25,CUST025,West,Tamil Nadu,Pune,UPI,4128.23,2
+ORD0757,2025-01-26,CUST145,North,Maharashtra,Mumbai,Net Banking,392.67,3
+ORD0758,2025-01-27,CUST013,North,Maharashtra,Chennai,UPI,4471.58,4
+ORD0759,2025-01-28,CUST212,West,Gujarat,Ahmedabad,UPI,4961.42,3
+ORD0760,2025-01-29,CUST025,West,Gujarat,Delhi,Net Banking,1611.52,4
+ORD0761,2025-01-30,CUST068,South,Delhi,Mumbai,Credit Card,1209.53,1
+ORD0762,2025-01-31,CUST067,East,Gujarat,Bangalore,Credit Card,3873.74,5
+ORD0763,2025-02-01,CUST233,West,Delhi,Pune,Net Banking,1414.53,3
+ORD0764,2025-02-02,CUST109,West,Maharashtra,Ahmedabad,Net Banking,4354.7,4
+ORD0765,2025-02-03,CUST146,East,Karnataka,Bangalore,Net Banking,693.64,5
+ORD0766,2025-02-04,CUST111,West,Tamil Nadu,Delhi,UPI,804.58,3
+ORD0767,2025-02-05,CUST228,West,Maharashtra,Mumbai,Net Banking,4899.93,2
+ORD0768,2025-02-06,CUST111,South,Gujarat,Delhi,Debit Card,3434.43,4
+ORD0769,2025-02-07,CUST034,North,Tamil Nadu,Mumbai,UPI,4265.06,2
+ORD0770,2025-02-08,CUST111,North,Karnataka,Chennai,Credit Card,1756.78,1
+ORD0771,2025-02-09,CUST264,North,Karnataka,Pune,Credit Card,3447.12,2
+ORD0772,2025-02-10,CUST236,North,Delhi,Chennai,Credit Card,3052.36,2
+ORD0773,2025-02-11,CUST083,West,Tamil Nadu,Chennai,UPI,3095.12,4
+ORD0774,2025-02-12,CUST042,East,Delhi,Delhi,Debit Card,3476.16,1
+ORD0775,2025-02-13,CUST101,East,Maharashtra,Pune,Net Banking,2961.72,2
+ORD0776,2025-02-14,CUST006,South,Tamil Nadu,Mumbai,Net Banking,2259.5,5
+ORD0777,2025-02-15,CUST180,South,Maharashtra,Mumbai,Credit Card,1524.43,3
+ORD0778,2025-02-16,CUST282,West,Delhi,Ahmedabad,Credit Card,3889.19,2
+ORD0779,2025-02-17,CUST226,East,Tamil Nadu,Bangalore,UPI,1286.11,1
+ORD0780,2025-02-18,CUST229,East,Delhi,Ahmedabad,Debit Card,3523.3,2
+ORD0781,2025-02-19,CUST289,North,Tamil Nadu,Ahmedabad,Net Banking,1320.0,3
+ORD0782,2025-02-20,CUST150,West,Delhi,Mumbai,UPI,3201.58,1
+ORD0783,2025-02-21,CUST277,West,Karnataka,Delhi,Net Banking,3785.98,4
+ORD0784,2025-02-22,CUST198,North,Delhi,Chennai,Credit Card,1249.83,1
+ORD0785,2025-02-23,CUST070,West,Karnataka,Chennai,Net Banking,487.73,4
+ORD0786,2025-02-24,CUST112,West,Delhi,Chennai,Debit Card,828.67,1
+ORD0787,2025-02-25,CUST004,South,Tamil Nadu,Pune,Debit Card,3108.79,3
+ORD0788,2025-02-26,CUST095,East,Tamil Nadu,Mumbai,Credit Card,4277.34,3
+ORD0789,2025-02-27,CUST152,West,Tamil Nadu,Delhi,Debit Card,415.98,1
+ORD0790,2025-02-28,CUST137,South,Gujarat,Pune,Debit Card,3723.93,2
+ORD0791,2025-03-01,CUST247,East,Maharashtra,Bangalore,UPI,1838.33,3
+ORD0792,2025-03-02,CUST243,North,Tamil Nadu,Delhi,Net Banking,2496.94,4
+ORD0793,2025-03-03,CUST031,South,Karnataka,Ahmedabad,Credit Card,4658.53,4
+ORD0794,2025-03-04,CUST040,South,Tamil Nadu,Delhi,Credit Card,1793.46,5
+ORD0795,2025-03-05,CUST229,East,Gujarat,Delhi,Credit Card,2433.62,4
+ORD0796,2025-03-06,CUST036,North,Karnataka,Chennai,Credit Card,265.68,5
+ORD0797,2025-03-07,CUST223,South,Gujarat,Delhi,Credit Card,591.67,1
+ORD0798,2025-03-08,CUST006,West,Karnataka,Ahmedabad,Debit Card,1441.24,1
+ORD0799,2025-03-09,CUST220,West,Delhi,Ahmedabad,UPI,333.69,1
+ORD0800,2025-03-10,CUST075,West,Maharashtra,Mumbai,Credit Card,3230.6,2
+ORD0801,2025-03-11,CUST004,North,Maharashtra,Delhi,UPI,2246.71,2
+ORD0802,2025-03-12,CUST134,South,Gujarat,Chennai,UPI,2831.1,5
+ORD0803,2025-03-13,CUST118,West,Maharashtra,Delhi,Debit Card,1038.31,4
+ORD0804,2025-03-14,CUST094,North,Gujarat,Bangalore,Credit Card,1620.47,4
+ORD0805,2025-03-15,CUST062,West,Gujarat,Bangalore,Debit Card,3386.36,1
+ORD0806,2025-03-16,CUST194,East,Gujarat,Chennai,Credit Card,4833.45,3
+ORD0807,2025-03-17,CUST203,South,Maharashtra,Mumbai,Debit Card,442.0,2
+ORD0808,2025-03-18,CUST026,South,Gujarat,Mumbai,UPI,4473.84,2
+ORD0809,2025-03-19,CUST173,North,Maharashtra,Ahmedabad,Credit Card,2969.03,1
+ORD0810,2025-03-20,CUST300,North,Gujarat,Ahmedabad,Net Banking,2906.81,2
+ORD0811,2025-03-21,CUST133,South,Tamil Nadu,Pune,UPI,2601.34,1
+ORD0812,2025-03-22,CUST118,West,Gujarat,Chennai,Net Banking,533.09,5
+ORD0813,2025-03-23,CUST275,West,Karnataka,Delhi,UPI,631.41,4
+ORD0814,2025-03-24,CUST212,East,Gujarat,Chennai,Debit Card,3084.38,3
+ORD0815,2025-03-25,CUST225,West,Delhi,Pune,Credit Card,1836.6,4
+ORD0816,2025-03-26,CUST020,North,Gujarat,Ahmedabad,UPI,4602.89,4
+ORD0817,2025-03-27,CUST113,North,Karnataka,Chennai,Debit Card,2151.63,5
+ORD0818,2025-03-28,CUST140,West,Karnataka,Chennai,Credit Card,887.75,2
+ORD0819,2025-03-29,CUST047,North,Maharashtra,Ahmedabad,Credit Card,3630.65,3
+ORD0820,2025-03-30,CUST001,South,Tamil Nadu,Pune,UPI,1608.1,2
+ORD0821,2025-03-31,CUST090,South,Gujarat,Ahmedabad,Credit Card,2722.26,4
+ORD0822,2025-04-01,CUST142,West,Maharashtra,Mumbai,UPI,3549.6,1
+ORD0823,2025-04-02,CUST038,South,Tamil Nadu,Delhi,Credit Card,4521.27,4
+ORD0824,2025-04-03,CUST293,South,Gujarat,Ahmedabad,Net Banking,4002.52,2
+ORD0825,2025-04-04,CUST139,East,Delhi,Pune,Debit Card,3446.53,4
+ORD0826,2025-04-05,CUST259,East,Gujarat,Bangalore,Net Banking,3462.24,1
+ORD0827,2025-04-06,CUST161,South,Karnataka,Mumbai,UPI,4740.44,5
+ORD0828,2025-04-07,CUST178,West,Karnataka,Bangalore,Net Banking,1619.96,2
+ORD0829,2025-04-08,CUST010,East,Delhi,Ahmedabad,UPI,205.34,4
+ORD0830,2025-04-09,CUST261,North,Maharashtra,Mumbai,Credit Card,1505.38,2
+ORD0831,2025-04-10,CUST138,North,Tamil Nadu,Delhi,Credit Card,1245.88,5
+ORD0832,2025-04-11,CUST172,North,Gujarat,Ahmedabad,UPI,3376.81,4
+ORD0833,2025-04-12,CUST013,West,Karnataka,Delhi,Net Banking,3241.82,4
+ORD0834,2025-04-13,CUST168,South,Maharashtra,Chennai,Credit Card,3048.61,2
+ORD0835,2025-04-14,CUST130,North,Delhi,Bangalore,Debit Card,277.97,2
+ORD0836,2025-04-15,CUST084,West,Karnataka,Mumbai,Credit Card,3698.13,1
+ORD0837,2025-04-16,CUST101,East,Delhi,Delhi,Debit Card,1752.95,5
+ORD0838,2025-04-17,CUST273,South,Gujarat,Pune,Net Banking,3392.27,1
+ORD0839,2025-04-18,CUST265,East,Tamil Nadu,Delhi,Debit Card,2871.58,4
+ORD0840,2025-04-19,CUST038,West,Karnataka,Pune,Debit Card,1845.11,2
+ORD0841,2025-04-20,CUST094,North,Karnataka,Ahmedabad,Debit Card,845.97,4
+ORD0842,2025-04-21,CUST095,North,Gujarat,Mumbai,Debit Card,653.21,4
+ORD0843,2025-04-22,CUST069,West,Maharashtra,Delhi,Credit Card,4191.29,3
+ORD0844,2025-04-23,CUST236,North,Tamil Nadu,Delhi,Debit Card,4608.31,3
+ORD0845,2025-04-24,CUST137,South,Karnataka,Mumbai,Credit Card,3318.98,4
+ORD0846,2025-04-25,CUST076,West,Tamil Nadu,Delhi,Debit Card,696.48,2
+ORD0847,2025-04-26,CUST035,East,Karnataka,Pune,UPI,2129.73,4
+ORD0848,2025-04-27,CUST001,West,Tamil Nadu,Delhi,Net Banking,3698.91,3
+ORD0849,2025-04-28,CUST296,South,Delhi,Bangalore,Debit Card,3943.14,2
+ORD0850,2025-04-29,CUST060,South,Karnataka,Ahmedabad,UPI,767.45,4
+ORD0851,2025-04-30,CUST267,West,Tamil Nadu,Chennai,Debit Card,200.15,5
+ORD0852,2025-05-01,CUST229,West,Maharashtra,Pune,Debit Card,3618.26,5
+ORD0853,2025-05-02,CUST270,North,Delhi,Bangalore,Debit Card,1911.66,4
+ORD0854,2025-05-03,CUST286,South,Delhi,Ahmedabad,UPI,1421.51,2
+ORD0855,2025-05-04,CUST291,West,Maharashtra,Mumbai,Net Banking,261.91,4
+ORD0856,2025-05-05,CUST213,West,Tamil Nadu,Pune,UPI,2793.44,4
+ORD0857,2025-05-06,CUST165,South,Gujarat,Chennai,Net Banking,4285.52,3
+ORD0858,2025-05-07,CUST005,West,Maharashtra,Ahmedabad,Debit Card,4796.63,5
+ORD0859,2025-05-08,CUST078,North,Tamil Nadu,Chennai,Credit Card,2915.58,3
+ORD0860,2025-05-09,CUST062,South,Maharashtra,Mumbai,Debit Card,2669.41,3
+ORD0861,2025-05-10,CUST132,North,Maharashtra,Mumbai,Net Banking,608.27,4
+ORD0862,2025-05-11,CUST089,North,Karnataka,Pune,UPI,2834.59,3
+ORD0863,2025-05-12,CUST237,North,Tamil Nadu,Delhi,Debit Card,2023.9,5
+ORD0864,2025-05-13,CUST042,North,Gujarat,Mumbai,UPI,3114.25,3
+ORD0865,2025-05-14,CUST089,South,Karnataka,Ahmedabad,UPI,2065.89,5
+ORD0866,2025-05-15,CUST296,North,Maharashtra,Delhi,UPI,1353.44,3
+ORD0867,2025-05-16,CUST295,North,Maharashtra,Bangalore,Debit Card,655.83,5
+ORD0868,2025-05-17,CUST104,West,Maharashtra,Chennai,UPI,1711.61,3
+ORD0869,2025-05-18,CUST014,South,Tamil Nadu,Delhi,UPI,663.9,3
+ORD0870,2025-05-19,CUST288,South,Tamil Nadu,Chennai,Debit Card,1049.11,2
+ORD0871,2025-05-20,CUST179,East,Karnataka,Delhi,UPI,4939.21,5
+ORD0872,2025-05-21,CUST125,South,Gujarat,Bangalore,Debit Card,2331.7,5
+ORD0873,2025-05-22,CUST023,South,Karnataka,Mumbai,Net Banking,2752.98,5
+ORD0874,2025-05-23,CUST063,East,Delhi,Bangalore,Net Banking,4393.37,1
+ORD0875,2025-05-24,CUST143,South,Maharashtra,Mumbai,Net Banking,4978.73,3
+ORD0876,2025-05-25,CUST153,South,Maharashtra,Mumbai,UPI,2997.03,5
+ORD0877,2025-05-26,CUST145,South,Maharashtra,Chennai,Credit Card,4099.87,1
+ORD0878,2025-05-27,CUST225,South,Karnataka,Ahmedabad,Credit Card,1769.32,2
+ORD0879,2025-05-28,CUST104,East,Karnataka,Bangalore,UPI,1667.57,5
+ORD0880,2025-05-29,CUST104,South,Maharashtra,Delhi,Credit Card,2132.98,5
+ORD0881,2025-05-30,CUST039,South,Karnataka,Bangalore,Debit Card,3428.03,1
+ORD0882,2025-05-31,CUST198,East,Tamil Nadu,Chennai,Credit Card,3474.52,3
+ORD0883,2025-06-01,CUST134,West,Tamil Nadu,Mumbai,UPI,1713.15,2
+ORD0884,2025-06-02,CUST067,North,Karnataka,Chennai,UPI,839.41,5
+ORD0885,2025-06-03,CUST179,West,Maharashtra,Pune,Debit Card,3235.5,3
+ORD0886,2025-06-04,CUST042,East,Karnataka,Pune,Net Banking,815.96,2
+ORD0887,2025-06-05,CUST015,North,Karnataka,Delhi,UPI,2976.76,4
+ORD0888,2025-06-06,CUST111,East,Karnataka,Chennai,Debit Card,3528.43,4
+ORD0889,2025-06-07,CUST157,East,Delhi,Delhi,Credit Card,3562.94,2
+ORD0890,2025-06-08,CUST289,South,Tamil Nadu,Delhi,Credit Card,3816.67,1
+ORD0891,2025-06-09,CUST231,North,Gujarat,Pune,Debit Card,4389.73,2
+ORD0892,2025-06-10,CUST157,South,Gujarat,Delhi,Debit Card,2599.8,2
+ORD0893,2025-06-11,CUST038,North,Delhi,Pune,UPI,3705.2,1
+ORD0894,2025-06-12,CUST097,East,Karnataka,Mumbai,Credit Card,3172.03,1
+ORD0895,2025-06-13,CUST289,East,Delhi,Chennai,Debit Card,1095.87,3
+ORD0896,2025-06-14,CUST254,West,Delhi,Delhi,Credit Card,323.31,3
+ORD0897,2025-06-15,CUST196,North,Maharashtra,Pune,Debit Card,1565.8,1
+ORD0898,2025-06-16,CUST086,South,Tamil Nadu,Bangalore,Credit Card,2326.56,4
+ORD0899,2025-06-17,CUST010,West,Gujarat,Delhi,Net Banking,3162.11,4
+ORD0900,2025-06-18,CUST005,West,Karnataka,Ahmedabad,UPI,4279.8,2
+ORD0901,2025-06-19,CUST123,West,Gujarat,Mumbai,Credit Card,1141.98,5
+ORD0902,2025-06-20,CUST118,South,Gujarat,Mumbai,Net Banking,802.64,2
+ORD0903,2025-06-21,CUST294,West,Tamil Nadu,Bangalore,Credit Card,4824.7,2
+ORD0904,2025-06-22,CUST159,South,Gujarat,Pune,Credit Card,718.61,5
+ORD0905,2025-06-23,CUST228,West,Gujarat,Delhi,Net Banking,2496.76,1
+ORD0906,2025-06-24,CUST216,South,Delhi,Pune,Credit Card,3010.71,4
+ORD0907,2025-06-25,CUST184,East,Tamil Nadu,Mumbai,Credit Card,2798.6,2
+ORD0908,2025-06-26,CUST015,East,Maharashtra,Pune,UPI,612.95,5
+ORD0909,2025-06-27,CUST157,East,Karnataka,Mumbai,Net Banking,473.73,3
+ORD0910,2025-06-28,CUST136,East,Gujarat,Pune,Net Banking,706.32,2
+ORD0911,2025-06-29,CUST261,East,Karnataka,Bangalore,Debit Card,3010.82,4
+ORD0912,2025-06-30,CUST157,West,Maharashtra,Chennai,Credit Card,2812.86,1
+ORD0913,2025-07-01,CUST047,West,Karnataka,Bangalore,UPI,1321.96,2
+ORD0914,2025-07-02,CUST173,West,Maharashtra,Bangalore,Credit Card,3261.32,2
+ORD0915,2025-07-03,CUST130,South,Delhi,Chennai,Credit Card,4136.32,5
+ORD0916,2025-07-04,CUST095,South,Gujarat,Chennai,Debit Card,399.58,3
+ORD0917,2025-07-05,CUST115,South,Maharashtra,Delhi,Credit Card,2591.02,3
+ORD0918,2025-07-06,CUST243,South,Karnataka,Delhi,UPI,3508.69,1
+ORD0919,2025-07-07,CUST292,East,Gujarat,Bangalore,UPI,1411.1,4
+ORD0920,2025-07-08,CUST282,East,Delhi,Bangalore,Debit Card,1677.3,1
+ORD0921,2025-07-09,CUST299,East,Gujarat,Mumbai,Credit Card,3145.46,2
+ORD0922,2025-07-10,CUST283,North,Maharashtra,Mumbai,UPI,4510.09,2
+ORD0923,2025-07-11,CUST069,West,Delhi,Delhi,Credit Card,4087.64,3
+ORD0924,2025-07-12,CUST148,South,Karnataka,Ahmedabad,Credit Card,2999.03,4
+ORD0925,2025-07-13,CUST011,South,Delhi,Ahmedabad,Credit Card,3705.06,5
+ORD0926,2025-07-14,CUST254,East,Delhi,Delhi,Debit Card,1951.15,4
+ORD0927,2025-07-15,CUST038,South,Tamil Nadu,Mumbai,Credit Card,3276.63,2
+ORD0928,2025-07-16,CUST134,South,Delhi,Mumbai,UPI,2437.67,5
+ORD0929,2025-07-17,CUST200,West,Delhi,Ahmedabad,Credit Card,1111.69,4
+ORD0930,2025-07-18,CUST023,East,Gujarat,Pune,UPI,3568.34,4
+ORD0931,2025-07-19,CUST218,West,Karnataka,Pune,Credit Card,2871.03,5
+ORD0932,2025-07-20,CUST141,North,Gujarat,Mumbai,UPI,1921.38,2
+ORD0933,2025-07-21,CUST104,North,Gujarat,Pune,UPI,4574.43,4
+ORD0934,2025-07-22,CUST210,North,Maharashtra,Chennai,Credit Card,300.48,5
+ORD0935,2025-07-23,CUST111,East,Gujarat,Delhi,Credit Card,1715.71,2
+ORD0936,2025-07-24,CUST104,South,Tamil Nadu,Delhi,UPI,473.03,5
+ORD0937,2025-07-25,CUST171,East,Tamil Nadu,Mumbai,Net Banking,3879.33,5
+ORD0938,2025-07-26,CUST133,East,Maharashtra,Bangalore,Debit Card,3570.12,4
+ORD0939,2025-07-27,CUST293,South,Karnataka,Ahmedabad,Net Banking,1790.49,2
+ORD0940,2025-07-28,CUST127,West,Karnataka,Mumbai,Net Banking,3443.18,4
+ORD0941,2025-07-29,CUST106,North,Gujarat,Pune,Credit Card,2100.5,1
+ORD0942,2025-07-30,CUST092,West,Gujarat,Ahmedabad,Debit Card,3830.02,1
+ORD0943,2025-07-31,CUST287,North,Gujarat,Bangalore,Net Banking,2380.08,2
+ORD0944,2025-08-01,CUST051,East,Karnataka,Pune,Credit Card,2178.94,5
+ORD0945,2025-08-02,CUST029,North,Delhi,Chennai,Net Banking,4686.7,4
+ORD0946,2025-08-03,CUST296,East,Tamil Nadu,Pune,Net Banking,1404.22,4
+ORD0947,2025-08-04,CUST297,West,Delhi,Chennai,Credit Card,778.15,2
+ORD0948,2025-08-05,CUST214,East,Delhi,Ahmedabad,Credit Card,3005.81,2
+ORD0949,2025-08-06,CUST267,West,Karnataka,Chennai,Credit Card,4852.74,1
+ORD0950,2025-08-07,CUST257,South,Delhi,Ahmedabad,Debit Card,2013.63,3
+ORD0951,2025-08-08,CUST101,South,Maharashtra,Ahmedabad,Net Banking,497.78,2
+ORD0952,2025-08-09,CUST110,South,Gujarat,Ahmedabad,Credit Card,1828.67,3
+ORD0953,2025-08-10,CUST182,East,Maharashtra,Ahmedabad,UPI,2628.47,2
+ORD0954,2025-08-11,CUST001,South,Tamil Nadu,Ahmedabad,Net Banking,977.23,5
+ORD0955,2025-08-12,CUST055,North,Gujarat,Pune,UPI,3358.89,5
+ORD0956,2025-08-13,CUST149,West,Delhi,Ahmedabad,Debit Card,4989.2,1
+ORD0957,2025-08-14,CUST137,West,Tamil Nadu,Pune,Credit Card,2368.35,1
+ORD0958,2025-08-15,CUST202,North,Gujarat,Ahmedabad,UPI,1902.7,3
+ORD0959,2025-08-16,CUST117,East,Delhi,Chennai,Debit Card,2123.38,2
+ORD0960,2025-08-17,CUST154,East,Maharashtra,Ahmedabad,Credit Card,752.7,4
+ORD0961,2025-08-18,CUST291,West,Gujarat,Bangalore,UPI,4439.71,1
+ORD0962,2025-08-19,CUST063,South,Delhi,Ahmedabad,UPI,2191.16,4
+ORD0963,2025-08-20,CUST244,East,Maharashtra,Ahmedabad,Debit Card,2058.92,4
+ORD0964,2025-08-21,CUST025,East,Tamil Nadu,Chennai,Credit Card,3366.51,2
+ORD0965,2025-08-22,CUST090,North,Tamil Nadu,Delhi,Credit Card,2321.76,3
+ORD0966,2025-08-23,CUST075,North,Tamil Nadu,Chennai,UPI,3311.52,2
+ORD0967,2025-08-24,CUST294,South,Tamil Nadu,Bangalore,UPI,494.94,1
+ORD0968,2025-08-25,CUST210,East,Karnataka,Delhi,UPI,4105.87,4
+ORD0969,2025-08-26,CUST017,East,Gujarat,Mumbai,Credit Card,4714.42,2
+ORD0970,2025-08-27,CUST128,North,Gujarat,Mumbai,Debit Card,3314.07,2
+ORD0971,2025-08-28,CUST251,East,Karnataka,Bangalore,Debit Card,4781.92,2
+ORD0972,2025-08-29,CUST179,West,Delhi,Chennai,Credit Card,926.88,1
+ORD0973,2025-08-30,CUST182,North,Delhi,Pune,Net Banking,2491.6,3
+ORD0974,2025-08-31,CUST152,South,Tamil Nadu,Bangalore,Debit Card,3088.67,2
+ORD0975,2025-09-01,CUST025,North,Maharashtra,Delhi,UPI,2992.34,1
+ORD0976,2025-09-02,CUST180,East,Delhi,Delhi,Net Banking,2127.02,4
+ORD0977,2025-09-03,CUST198,South,Maharashtra,Ahmedabad,Net Banking,1822.81,5
+ORD0978,2025-09-04,CUST161,North,Gujarat,Mumbai,Debit Card,808.76,1
+ORD0979,2025-09-05,CUST177,West,Maharashtra,Delhi,Net Banking,2080.36,5
+ORD0980,2025-09-06,CUST285,West,Gujarat,Bangalore,Net Banking,980.77,2
+ORD0981,2025-09-07,CUST063,North,Karnataka,Delhi,Debit Card,3724.96,2
+ORD0982,2025-09-08,CUST150,West,Karnataka,Bangalore,Debit Card,1202.39,1
+ORD0983,2025-09-09,CUST154,West,Tamil Nadu,Pune,Net Banking,481.11,5
+ORD0984,2025-09-10,CUST156,West,Delhi,Ahmedabad,UPI,2851.36,2
+ORD0985,2025-09-11,CUST049,South,Tamil Nadu,Mumbai,Credit Card,3057.1,4
+ORD0986,2025-09-12,CUST084,West,Gujarat,Delhi,Net Banking,4385.18,3
+ORD0987,2025-09-13,CUST177,West,Tamil Nadu,Bangalore,Net Banking,2969.51,3
+ORD0988,2025-09-14,CUST148,West,Maharashtra,Chennai,UPI,1858.31,2
+ORD0989,2025-09-15,CUST118,South,Gujarat,Mumbai,Net Banking,4054.46,5
+ORD0990,2025-09-16,CUST063,North,Karnataka,Pune,Net Banking,2793.34,2
+ORD0991,2025-09-17,CUST189,East,Delhi,Bangalore,Credit Card,580.55,5
+ORD0992,2025-09-18,CUST049,West,Gujarat,Ahmedabad,Credit Card,2916.08,4
+ORD0993,2025-09-19,CUST257,North,Gujarat,Ahmedabad,Credit Card,4558.49,5
+ORD0994,2025-09-20,CUST224,West,Maharashtra,Pune,Debit Card,2102.3,2
+ORD0995,2025-09-21,CUST141,South,Delhi,Pune,Debit Card,1622.36,4
+ORD0996,2025-09-22,CUST215,North,Karnataka,Ahmedabad,Credit Card,888.65,1
+ORD0997,2025-09-23,CUST211,South,Gujarat,Delhi,Credit Card,926.94,3
+ORD0998,2025-09-24,CUST032,West,Gujarat,Delhi,Debit Card,2277.3,2
+ORD0999,2025-09-25,CUST158,West,Maharashtra,Bangalore,UPI,3059.26,2
+ORD1000,2025-09-26,CUST285,South,Tamil Nadu,Chennai,Net Banking,586.95,2
